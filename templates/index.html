@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prezentasiýa dörediji emeli aň</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .spinner-border {
+            width: 3rem;
+            height: 3rem;
+        }
+        #loading {
+            display: none;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="text-center">
+            <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo" class="logo">
+        </div>
+        <h1 class="text-center">Prezentasiýa dörediji emeli aň</h1>
+        {% if error %}
+            <div class="alert alert-danger">{{ error }}</div>
+        {% endif %}
+        <form method="post" onsubmit="showLoading()" novalidate>
+            <div class="form-group">
+                <label for="topic">PowerPoint Prezentasiýanyň temasy:</label>
+                <input type="text" class="form-control" id="topic" name="topic" required>
+            </div>
+            <div class="form-group">
+                <label for="add_info">Tema nämeler bilen baglanyşykly (boş goýup bilersiňiz):</label>
+                <input type="text" class="form-control" id="add_info" name="add_info">
+            </div>
+            <div class="form-group">
+                <label for="slides">Sahypa sany:</label>
+                <input type="number" class="form-control" id="slides" min="1" max="15" name="slides" required>
+            </div>
+            <div class="form-group">
+                <label for="theme">Tema saýlaň (1-7):</label>
+                <input type="number" class="form-control" id="theme" min="1" max="7" name="theme" required>
+            </div>
+            <div class="form-group">
+            <label for="language">Prezentasiýa dilini saýlaň:</label>
+            <select class="form-control" id="language" name="language">
+                <option value="Turkmen">Türkmen</option>
+                <option value="English">Iňlis</option>
+                <option value="Russian">Rus</option>
+                <option value="Japanese">Ýapon</option>
+            </select>
+        </div>
+            <button type="submit" class="btn btn-primary">Döret</button>
+          
+        </form>
+    
+    <div id="loading">
+        <div class="spinner-border text-primary" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+        <p>Prezentasiýa döredilýär, biraz garaşyň...</p>
+    </div>
+</div>
+<script>
+    function showLoading() {
+        document.querySelector('form').style.display = 'none';
+        document.getElementById('loading').style.display = 'block';
+    }
+</script>
+</body>
+</html>

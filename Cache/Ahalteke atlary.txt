@@ -1,0 +1,47 @@
+Title:Title: Ahalteke Atlary: Türkmen Medeniýetiniň Mirasy
+
+Slide: 1
+Header: MAZMUUNYŇ GÖRNÜŞI
+Content: 1. Giriş
+2. Ahalteke Atlarynyň Taryhy
+3. Ahalteke Atlarynyň Fiziki Häsiýetleri
+4. Ahalteke Atlarynyň Ýetişdirilişi
+5. Türkmen Medeniýetindäki Orny
+6. Halkara Şöhraty
+7. Geljekki Perspektiwalar
+8. Jemleýji Netije
+
+Slide: 2
+Header: GIRIŞ
+Content: Ahalteke atlary, Türkmenistanda ýüze çykarylan gadymy at tohumydyr. Bu atlar özleriniň gözelligi, çydamlylygy we tizligi bilen dünýäde meşhurdyr. Bu prezentasiýada, Ahalteke atlarynyň taryhy, fiziki häsiýetleri, Türkmen medeniýetindäki orny we olaryň geljekki perspektiwalary barada gürrüň berler.
+
+Slide: 3
+Header: AHALTEKE ATLARYŇ TARYHY
+Content: Ahalteke atlary, biziň eýýamymyzdan öňki asyrlarda Türkmenistanda ýüze çykarylan we ösdürilen tohumdyr. Bu atlar, Murgap derýasynyň boýundaky gadymy Ahal welaýatynda ösdürilip ýetişdirilipdir. Olar müňlerçe ýyllaryň dowamynda Türkmen halkynyň durmuşynda uly rol oýnapdyr.
+
+Slide: 4
+Header: AHALTEKE ATLARYŇ FIZIKI HÄSIÝETLERI
+Content: Ahalteke atlary uzyn we inçe göwreli, uzyn aýakly we dar kellesi bilen tapawutlanýarlar. Derisi inçe we ýumşak bolup, ýüňleri çalt ýalpyldap durýar. Bu atlaryň käbiri altyn reňkli bolup, olaryň bu aýratynlygy "altyn at" diýlip atlandyrylmagyna sebäp bolýar.
+
+Slide: 5
+Header: AHALTEKE ATLARYŇ ÝETIŞDIRILIŞI
+Content: Ahalteke atlaryny ösdürip ýetişdirmek aýratyn üns we ideg talap edýär. Olar ýörite şertlerde we agyr klimat ýagdaýlarynda ýetişdirilýär. Türkmen atşynaslary, bu atlaryň genetikasyny we saglygyny saklamak üçin yzygiderli iş alyp barýarlar.
+
+Slide: 6
+Header: TÜRKMEN MEDENIÝETINDÄKI ORNY
+Content: Ahalteke atlary Türkmen medeniýetinde aýratyn orun eýeleýär. Olar milli baýramçylyklarda we dabaralarda, şol sanda Nowruz we Garaşsyzlyk güni mynasybetli geçirilýän çärelerde ulanylýar. Türkmenler bu atlary "dost" we "ynançly ýoldaş" hasaplaýarlar.
+
+Slide: 7
+Header: HALKARA ŞÖHRATY
+Content: Ahalteke atlary dünýäde uly abraý gazandy. Olar halkara at ýaryşlarynda we sergilerde üstünlik gazanýarlar. Köp ýurtlarda bu atlar Türkmenistanda geçirilýän halkara atçylyk çärelerine gatnaşýarlar we baýraklara mynasyp bolýarlar.
+
+Slide: 8
+Header: GELJEKKI PERSPEKTIWALAR
+Content: Ahalteke atlarynyň geljekki perspektiwalary ulydyr. Olar genetika, sport we medeniýet ugurlarynda has-da ösdürilip bilner. Türkmen hökümeti we halkara guramalar bu atlaryň mirasyny gorap saklamak we ösdürmek üçin bilelikde iş alyp barýarlar.
+
+Slide: 9
+Header: JEMLEÝJI NETIJE
+Content: Ahalteke atlary Türkmen halkynyň buýsanjydyr we medeni mirasynyň möhüm bir bölegidir. Olar diňe bir Türkmenistanda däl, eýsem bütin dünýäde tanalýar we hormatlanýar. Bu atlar, geçmişden geljege miras galan gymmatlyklaryň biridigini ýene bir gezek tassyklaýar.
+
+Slide: END
+```

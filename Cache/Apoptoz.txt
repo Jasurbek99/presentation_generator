@@ -1,0 +1,43 @@
+Title:```
+Title: Apoptoz: Hüjrejik Ölümi
+
+Slide: 1
+Header: TABLE OF CONTENT
+Content: 1. Giriş
+2. Apoptozyň Möhümlügi
+3. Apoptozyň Mekanizmi
+4. Apoptozyň Biologik Roly
+5. Apoptozyň Keselçilikler Bilen Baglanyşygy
+6. Apoptozy Öwrenmek Üçin Tehniki Materiallar
+7. Netije
+
+Slide: 2
+Header: Giriş
+Content: Apoptoz, hüjrejik ölümiň programmalaşdyrylan görnüşidir. Bu proses, organizmde gereksiz ýa-da zeper ýeten hüjrejikleriň täsirli we tertipli şekilde ýok edilmegini üpjün edýär.
+
+Slide: 3
+Header: Apoptozyň Möhümlügi
+Content: Apoptoz, organizmde durnuklylygy we sagdynlygy saklamak üçin möhümdir. Hüjrejikleriň gereginden artyk köpelmeginiň öňüni alyp, täze hüjrejiklere ýer berýär. Şeýle hem, zeper ýeten ýa-da potensial zyýanly hüjrejikleri aýyrýar.
+
+Slide: 4
+Header: Apoptozyň Mekanizmi
+Content: Apoptoz, birnäçe biokimýewi we molekulýar prosesleri öz içine alýar. Bu proses, kaspazlar diýlip atlandyrylýan fermentleriň işjeňleşmegi bilen başlaýar. Hüjrejik membranasynyň dargadylmagy, DNK-nyň parçalanmagy we ahyrky netijede hüjrejikleriň fagositler tarapyndan ýok edilmegi bu prosesiň bölekleridir.
+
+Slide: 5
+Header: Apoptozyň Biologik Roly
+Content: Apoptoz, embrion ösüşi, immun jogap, we dokuma homeostazy ýaly köp biologik prosese gatnaşýar. Mysal üçin, embrion ösüşi döwründe, apoptoz, gereksiz dokumalaryň ýok edilmegine kömek edýär.
+
+Slide: 6
+Header: Apoptozyň Keselçilikler Bilen Baglanyşygy
+Content: Apoptozyň bozulmagy, birnäçe keselçiligiň döremegine sebäp bolup biler. Mysal üçin, apoptozyň azalmagy, rak keseliniň döremegine sebäp bolup biler, çünki zeper ýeten hüjrejikler ýok edilmez. Apoptozyň artykmaçlygy bolsa, neurodegeneratif keselçiliklere getirip biler.
+
+Slide: 7
+Header: Apoptozy Öwrenmek Üçin Tehniki Materiallar
+Content: Apoptozy öwrenmek üçin dürli laboratoriýa tehnikalary ulanylýar. Bu tehnikalara, mikroskopiýa, flýuoresan esasly analizler we kaspaz işjeňligini ölçemek üçin biokimýewi analizler girýär. Bu tehniki materiallar, apoptozyň dürli basgançaklaryny we onuň biologik täsirlerini anyklamak üçin ulanylýar.
+
+Slide: 8
+Headers: Netije
+Content: Apoptoz, organizmiň sagdynlygyny saklamak üçin möhüm rol oýnaýar. Bu prosesiň bozulmagy, dürli keselçilikleriň döremegine sebäp bolup biler. Şoňa görä, apoptozy öwrenmek we düşünmek, biologiýa we medisina ugurlarynda uly ähmiýete eýedir.
+
+Slide: END
+```

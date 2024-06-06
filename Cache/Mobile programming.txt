@@ -1,0 +1,66 @@
+Title:```
+Title: Cross-Platform Mobile Programming
+
+Slide: 1
+Header: TABLE OF CONTENT
+Content: 1. Giriş
+2. Cross-Platform Mobile Programming näme?
+3. Cross-Platform Frameworks
+4. React Native
+5. Flutter
+6. Xamarin
+7. Cross-Platform Mobile Programming peýdalary
+8. Cross-Platform Mobile Programming kynçylyklar
+9. Geljekdäki mümkinçilikler
+10. Netije
+
+Slide: 2
+Header: Giriş
+Content: Bu prezentasiýada biz Cross-Platform Mobile Programming barada gürrüň ederis. Bu tema häzirki zaman mobil programmalaşdyrmasynda möhüm orun eýeleýär we dürli mobil platformalary üçin programmalaryň döredilmegini aňsatlaşdyrýar.
+
+Slide: 3
+Header: Cross-Platform Mobile Programming näme?
+Content: Cross-Platform Mobile Programming, bir kodyň birnäçe mobil platformada (iOS, Android) işläp bilmegi üçin ulanylýan tehnologiýadyr. Bu usul, programmistleriň wagt we resurslaryny tygşytlamaga kömek edýär.
+
+Slide: 4
+Header: Cross-Platform Frameworks
+Content: Cross-Platform Mobile Programming üçin birnäçe framework bar. Bu frameworklar, programmistlere bir kody döredip, birnäçe platformada ulanmak mümkinçiligini berýär. Esasy frameworklar: React Native, Flutter, we Xamarin.
+
+Slide: 5
+Header: React Native
+Content: React Native, Facebook tarapyndan işlenilip düzülen we JavaScript-e esaslanýan frameworkdyr. Bu framework arkaly döredilen programmalar, özboluşly platformalarda tebigy ýaly işleýär.
+
+Slide: 6
+Header: Flutter
+Content: Flutter, Google tarapyndan işlenilip düzülen we Dart programmalaşdyrma diline esaslanýan frameworkdyr. Flutter, ýokary öndürijilikli we gözelligi boýunça tapawutlanýar.
+
+Slide: 7
+Header: Xamarin
+Content: Xamarin, Microsoft tarapyndan işlenilip düzülen we C# diline esaslanýan frameworkdyr. Xamarin, programmistlere bir kody ulanyp, iOS we Android üçin programmalar döretmäge mümkinçilik berýär.
+
+Slide: 8
+Header: Cross-Platform Mobile Programming peýdalary
+Content: Cross-Platform Mobile Programming peýdalary: 
+1. Az wagt we resurs sarp edilmegi
+2. Bir kody ulanmak
+3. Giňişleýin ulanyjy bazasyna ýetmek
+4. Üznüksiz täzelenmeler we gowulaşdyrmalar
+
+Slide: 9
+Header: Cross-Platform Mobile Programming kynçylyklar
+Content: Cross-Platform Mobile Programming kynçylyklar:
+1. Performans meseleleri
+2. Platforma aýratynlyklaryna doly laýyk gelmezlik
+3. UI/UX meseleleri
+4. Frameworklaryň çalt üýtgemegi we täzelenmegi
+
+Slide: 10
+Header: Geljekdäki mümkinçilikler
+Content: Geljekde Cross-Platform Mobile Programming has-da öňe gider. Täze tehnologiýalar we frameworklar, programmistlere has köp mümkinçilikler berer we bu ugurda işlemek has-da aňsatlaşar.
+
+Slide: 11
+Header: Netije
+Content: Cross-Platform Mobile Programming, häzirki zaman mobil programmalaşdyrmasynda möhüm orun eýeleýär. Bu tehnologiýa, programmistleriň işini ýeňilleşdirip, dürli platformalarda programmalar döretmäge mümkinçilik berýär. Bu ugurda täze frameworklar we tehnologiýalar bilen tanyşmak, geljekde has köp mümkinçiliklere ýol açar.
+
+Slide: END
+```

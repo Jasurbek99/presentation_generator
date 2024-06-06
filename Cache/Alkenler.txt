@@ -1,0 +1,51 @@
+Title:Title: Alkenler
+
+Slide: 1
+Header: TABLE OF CONTENT
+Content: 
+1. Alkenleriň Tanyşdyrylyşy
+2. Alkenleriň Strukturasynyň Esasy Çeşmeleri
+3. Alkenleriň Fiziki Häsiýetleri
+4. Alkenleriň Himiki Häsiýetleri
+5. Alkenleriň Önümçilikde Ulanylyşy
+6. Alkenleriň Tebigy Çeşmeleri
+7. Alkenleriň Ähmiýeti we Geljekki Işler
+8. Netije
+
+Slide: 2
+Header: Alkenleriň Tanyşdyrylyşy
+Content: 
+Alkenler, doýmadyk uglerod-uglerod goşa bagly organiki birleşmeler bolup, umumy formulasy CnH2n görnüşindedir. Alkenleriň iň ýönekeý mysaly etilendir (C2H4). Bu birleşmeler himiýada we senagatda möhüm rol oýnaýarlar.
+
+Slide: 3
+Header: Alkenleriň Strukturasynyň Esasy Çeşmeleri
+Content: 
+Alkenler uglerod atomlarynyň arasyndaky goşa baglar bilen häsiýetlendirilýär. Bu baglar, uglerod atomlarynyň arasynda pi we sigma baglarynyň bolmagyny aňladýar. Goşa baglar birleşmäniň reaktiwligine täsir edýär we dürli himiki reaksiýalary geçirip biler.
+
+Slide: 4
+Header: Alkenleriň Fiziki Häsiýetleri
+Content: 
+Alkenler, molekulalarynyň gurluşyna görä dürli fiziki häsiýetlere eýe bolup bilerler. Mysal üçin, etilen we propilen gaz ýagdaýynda bolup, ýokary molekulaly alkenler suwuk ýa-da gaty ýagdaýda bolup biler. Alkenleriň erginligi we gaýnama nokatlary hem molekulalaryň ululygyna baglydyr.
+
+Slide: 5
+Header: Alkenleriň Himiki Häsiýetleri
+Content: 
+Alkenler, goşa baglary sebäpli ýokary derejede reaktiw birleşmelerdir. Olaryň esasy reaksiýalaryna goşulma reaksiýalary, polimerizasiýa we oksidlenme reaksiýalary girýär. Mysal üçin, etilen polietilen polimerine öwrülip biler.
+
+Slide: 6
+Header: Alkenleriň Önümçilikde Ulanylyşy
+Content: 
+Alkenler köp sanly önümçilikde möhüm çig mal bolup hyzmat edýärler. Etilen we propilen plastmassa, rezin, we beýleki polimerleriň önümçiliginde ulanylýar. Şeýle hem, alkenler dürli organiki birleşmeleriň sintezinde ulanylýar.
+
+Slide: 7
+Header: Alkenleriň Tebigy Çeşmeleri
+Content: 
+Alkenler tebigatda hem duş gelýär. Mysal üçin, izopren tebigy rezinleriň esasy birleşmesi bolup durýar. Şeýle hem, käbir ösümlikleriň we haýwanlaryň metabolizmasynda alkenler öndürilýär.
+
+Slide: 8
+Header: Netije
+Content: 
+Alkenler doýmadyk uglerod-uglerod goşa bagly organiki birleşmeler bolup, himiýada we senagatda möhüm orna eýedir. Olaryň fiziki we himiki häsiýetleri köp sanly önümçilikde ulanylýar. Geljekde alkenleriň has köp ugurlarda ulanylmagy mümkin.
+
+Slide: END
+```

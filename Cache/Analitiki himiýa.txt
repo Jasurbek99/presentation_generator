@@ -1,0 +1,58 @@
+Title:Title: Analitiki Himiýa
+
+Slide: 1
+Header: MAZMUUNYŇ SANAWY
+Content: 
+1. Giriş
+2. Analitiki Himiýanyň Taryhy
+3. Analitiki Usullar
+4. Himiýa Analizleriniň Täsiri
+5. Analitik Himiýanyň Amaly
+6. Spektroskopiýa
+7. Kromatografiýa
+8. Elektrokimiýa
+9. Analitiki Himiýanyň Geljegi
+10. Netije
+
+Slide: 2
+Header: GIRIŞ
+Content: Analitiki himiýa himiki maddalaryň düzümini we gurluşyny öwrenýän ylym pudagydyr. Bu ugur, himiki maddalary analiz etmek we olaryň hilini, mukdaryny anyklamak üçin ulanylýar.
+
+Slide: 3
+Header: ANALITIKI HIMIÝANYŇ TARYHY
+Content: Analitiki himiýanyň taryhy gadymy döwürlerden başlaýar. Ilkinji analitik usullar K.Ö. 3000 ýyllarynda Mesopotamiýada ulanylyp başlandy. 19-njy asyrda himiki analizleriň ylmy esaslary düýpli öwrülip başlandy.
+
+Slide: 4
+Header: ANALITIKI USULLAR
+Content: Analitiki himiýanyň esasy usullary: titrläp analiz, gravimetriki analiz, kolorimetriýa, spektroskopiýa, kromatografiýa we elektrokimiýa bolup durýar.
+
+Slide: 5
+Header: HIMIÝA ANALIZLERINIŇ TÄSIRI
+Content: Himiýa analizleri önümleriň hilini we howpsuzlygyny üpjün etmekde möhüm rol oýnaýar. Bu analizler dermanlar, azyk önümleri, suwuň hilini barlamak üçin giňden ulanylýar.
+
+Slide: 6
+Header: ANALITIK HIMIÝANYŇ AMALY
+Content: Analitiki himiýa lukmançylykda, ekologiýada, azyk senagatynda, materiallaryň barlagynda we beýleki köp sanly ugurlarda ulanylýar. Onuň kömegi bilen maddalaryň düzümi we hil aýratynlyklary anyklanýar.
+
+Slide: 7
+Header: SPEKTROSKOPIÝA
+Content: Spektroskopiýa – himiki maddalaryň spektral häsiýetlerini öwrenmek usulydyr. Bu usul himiki maddalaryň molekulýar gurluşyny we düzümini anyklamak üçin ulanylýar.
+
+Slide: 8
+Header: KROMATOGRAFIÝA
+Content: Kromatografiýa – maddalary dürli komponentlere bölüp anyklamak usulydyr. Bu usul himiki maddalaryň arassalygyny we düzümini anyklamakda giňden ulanylýar.
+
+Slide: 9
+Header: ELEKTROKIMIÝA
+Content: Elektrokimiýa – elektrik togunyň himiki reaksiýalara täsirini öwrenýän ylym pudagydyr. Bu usul himiki elementleriň we birleşmeleriň elektrohimiki häsiýetlerini anyklamak üçin ulanylýar.
+
+Slide: 10
+Header: ANALITIKI HIMIÝANYŇ GELJEGI
+Content: Analitiki himiýanyň geljegi uly mümkinçiliklere eýedir. Tehnologiýanyň ösmegi bilen, täze we has takyk analiz usullary döredilýär we ulanylýar. Bu bolsa ylym we senagat üçin uly ähmiýete eýe bolup durýar.
+
+Slide: X
+Headers: NETIJE
+Content: Analitiki himiýa himiki maddalaryň düzümini we hilini anyklamakda möhüm rol oýnaýar. Bu ugurda ulanylýan dürli usullar we tehnologiýalar ylym we senagatda uly ähmiýete eýe bolup durýar.
+
+Slide: END
+```

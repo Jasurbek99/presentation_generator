@@ -1,0 +1,28 @@
+Title:```
+Title: Informatika
+
+Slide: 1
+Header: MAZMUNY
+Content: 1. Informatika näme?
+2. Informatikanyň ähmiýeti
+3. Informatikanyň esasy ugurlary
+4. Netije
+
+Slide: 2
+Header: Informatika näme?
+Content: Informatika maglumatlaryň ýygnalmagyny, işlenilmegini, saklanmagyny we ulanylmagyny öwrenýän ylym pudagydyr. Ol kompýuterleriň we maglumat tehnologiýalarynyň ösüşi bilen ýakyndan baglanyşyklydyr.
+
+Slide: 3
+Header: Informatikanyň ähmiýeti
+Content: Informatika häzirki zaman jemgyýetinde uly ähmiýete eýe. Ol dürli ugurlarda - bilim, saglyk, iş, ylmy barlaglar we beýleki köp sanly ugurlarda ulanylýar. Informatika arkaly maglumatlar tiz we takyk işlenilip bilner, bu bolsa netijeliligi ýokarlandyrýar.
+
+Slide: 4
+Header: Informatikanyň esasy ugurlary
+Content: Informatikanyň esasy ugurlaryna programma üpjünçiligi, maglumatlar bazasy, tor ulgamlary, emeli intellekt, kiberhowpsuzlyk we beýlekiler girýär. Bu ugurlar boýunça bilim almak we tejribe toplamak häzirki zaman hünärmenleri üçin örän möhümdir.
+
+Slide: 5
+Header: Netije
+Content: Informatika maglumatlary dolandyrmakda we çözgütleri kabul etmekde möhüm rol oýnaýar. Bu ylym pudagy häzirki zaman tehnologiýalarynyň özenini emele getirýär we dürli ugurlarda ulanylmagy bilen işiň netijeliligini ýokarlandyrýar. Informatika boýunça bilim almak we tejribe toplamak häzirki zaman hünärmenleri üçin örän zerurdyr.
+
+Slide: END
+```

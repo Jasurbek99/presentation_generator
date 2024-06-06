@@ -1,0 +1,52 @@
+Title:Title: Apopytos: Hüjreňiň Özüni Ýok Etmegi
+
+Slide: 1
+Header: MAZMUNY
+Content: 1. Apoptozyň Tanyşdyrylyşy
+2. Apoptozyň Ähmiýeti
+3. Apoptozyň Mehanizmleri
+4. Apoptozyň Etaplary
+5. Apoptozyň Biologiki Funksiýalary
+6. Apoptozyň Kesellerdäki Orny
+7. Apoptozyň Ýöriteleşdirilen Materiallary
+8. Jemleýji Netije
+
+Slide: 2
+Header: APOPTOSYŇ TANYŞDYRYLYŞY
+Content: Apoptoz, hüjreleriň öz-özüni meýilleşdiren görnüşde ýok etmegi bolup, onuň biologiki proseslerde möhüm orny bardyr. Bu mehanizm, organizmiň sagdynlygyny saklamak üçin zerurdyr.
+
+Slide: 3
+Header: APOPTOSYŇ ÄHMIÝETI
+Content: Apoptoz, bedeniň ösmeginde we ösüşinde uly ähmiýete eýedir. Bu mehanizm arkaly bedende gereksiz ýa-da zyýanly hüjreler aradan aýrylýar. Şeýlelikde, bedeniň durnuklylygyny we saglygyny üpjün edýär.
+
+Slide: 4
+Header: APOPTOSYŇ MEHANIZMLERI
+Content: Apoptoz iki esasy mehanizm arkaly amala aşyrylýar: içerki we daşarky signal ýollary. Içerki ýol, mitokondrialar arkaly başlaýar, daşarky ýol bolsa, hüjre ýüzündäki reseptorlar arkaly hereketlenýär.
+
+Slide: 5
+Header: APOPTOSYŇ ETAPLARY
+Content: Apoptozyň dört esasy tapgyry bar: 
+1. Inisiýasiýa 
+2. Ýerine ýetiriş 
+3. Fragmentasiýa 
+4. Fagositizasiýa. 
+Bu tapgyrlaryň her biri özboluşly biologiki hadysalar bilen häsiýetlendirilýär.
+
+Slide: 6
+Header: APOPTOSYŇ BIOLOGIKI FUNKSIÝALARY
+Content: Apoptoz, bedeniň dürli böleklerinde dürli wezipeleri ýerine ýetirýär. Ol embrion ösüşi, immun jogaplar we dokumalaryň täzelenmegi ýaly proseslerde möhüm rol oýnaýar.
+
+Slide: 7
+Header: APOPTOSYŇ KESELLERDÄKI ORNY
+Content: Apoptozyň düzgünleşdirilmezligi dürli kesellere sebäp bolup biler. Mysal üçin, aşa apoptoz nerw kesellerine we autoimmun kesellere getirip biler, ýeterlik däl apoptoz bolsa, howply öýjükli keselleriň (öýken keselleriniň) ösmegine sebäp bolup biler.
+
+Slide: 8
+Header: APOPTOSYŇ ÝÖRITELEŞDIRILEN MATERIALLARY
+Content: Bu bölümde apoptozyň mehanizmlerini we biologiki funksiýalaryny has gowy düşündirýän okuw materiallary hödürlenýär. Bu materiallar, studentleriň we mugallymlaryň apoptoz hakda has giňişleýin düşünje almagyna kömek eder.
+
+Slide: 9
+Header: JEMLEÝJI NETIJE
+Content: Apoptoz, organizmiň saglykly işlemegi üçin zerur bolan möhüm biologiki mehanizmdir. Onuň düzgünleşdirilmegi, sagdynlyk üçin möhüm bolup, dürli keselleriň öňüni almakda uly ähmiýete eýedir. Apoptozyň mehanizmlerini we biologiki funksiýalaryny öwrenmek, saglygy goraýyş we medisina ugurlarynda täze açyşlara ýol açar.
+
+Slide: END
+```

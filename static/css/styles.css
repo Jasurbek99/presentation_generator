@@ -1,0 +1,13 @@
+body {
+    padding-top: 50px;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 600px;
+}

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prezentasiýa dörediji</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container text-center">
+        <h1>PowerPoint Prezentasiýa döredildi</h1>
+        
+        <p>Ýüklap al: <a href="{{ url_for('static', filename=filepath.split('static/')[1]) }}" download>{{ filepath }}</a></p>
+       
+        <p>Döretmek üçin sarp edilen wagt: {{ time }} sekunt</p>
+        <a href="{{ url_for('index') }}" class="btn btn-primary">Täze döret</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,29 @@
+Title:```
+Title: Maşgala
+
+Slide: 1
+Header: MAZMUUNYŇ SANAWY
+Content: 1. Maşgala düşünjesi
+2. Maşgala agzalarynyň wezipeleri
+3. Maşgalaň ähmiýeti
+4. Netije
+
+Slide: 2
+Header: Maşgala düşünjesi
+Content: Maşgala, birek-birege söýgi we hormat goýmak bilen baglanyşykly adamlaryň toparydyr. Maşgala agzalary köplenç ata, ene we çagalar bolup, olar bilelikde ýaşaýarlar we durmuşdaky kynçylyklary bilelikde ýeňip geçýärler. 
+
+Slide: 3
+Header: Maşgala agzalarynyň wezipeleri
+Content: Maşgala agzalarynyň hersiniň özüne mahsus wezipeleri bardyr:
+- Ata: maşgalanyň baştutany bolup, maşgalany üpjün edýär we gorap saklaýar.
+- Ene: öý işlerini ýerine ýetirýär we çagalary terbiýeleýär.
+- Çagalar: bilim alýar we maşgalanyň agzalaryna hormat goýýarlar.
+
+Slide: 4
+Header: Maşgalaň ähmiýeti
+Content: Maşgala jemgyýetiň esasy gurluş bölegidir. Maşgala sagdyn jemgyýetiň esasyny düzýär, çünki ol ýerde adamlar ilkinji terbiýäni alýarlar we jemgyýetçilik düzgünlerini öwrenýärler. Maşgala agzalarynyň arasyndaky söýgi we goldaw, adamlaryň durmuşda üstünlik gazanmagyna kömek edýär.
+
+Slide: 5
+Headers: Netije
+Content: Maşgala, jemgyýetiň özboluşly gurluş bölegidir we onuň ähmiýeti örän uludyr. Maşgala agzalarynyň arasynda baglanyşyk we goldaw, adamlaryň durmuşda üstünlik gazanmagyna we sagdyn jemgyýetiň döremegine kömek edýär. Maşgalaň ähmiýetini we wezipelerini bilmek, her bir adamyň öz jogapkärçiligini duýmagyna we maşgaladaky agzybirligi saklamaga ýardam edýär.
+```

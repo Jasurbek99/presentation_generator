@@ -1,0 +1,61 @@
+Title:```
+Title: Türkmenistanyň Oguz han adyndaky inžener tehnologiýalar uniwersiteti
+
+Slide: 1
+Header: MAZMUNY
+Content: 1. Giriş
+2. Uniwersitetiň taryhy
+3. Fakultetler we bölümler
+4. Mugallymlar we işgärler
+5. Talyp durmuşy
+6. Tehnologik enjamlar we mümkinçilikler
+7. Halkara hyzmatdaşlyk
+8. Okuw meýilnamasy
+9. Tejribä esaslanýan okuw
+10. Netije
+
+Slide: 2
+Header: GIRIŞ
+Content: Türkmenistanyň Oguz han adyndaky inžener tehnologiýalar uniwersitetine hoş geldiňiz! Bu uniwersitet inženerçilik we tehnologiýa ugurlarynda ýokary hilli bilim bermäge gönükdirilendir.
+
+Slide: 3
+Header: UNIWERSTITIŇ TARYHY
+Content: Oguz han adyndaky inžener tehnologiýalar uniwersiteti 2016-njy ýylda döredildi we ol Türkmenistanda inženerçilik boýunça öňdebaryjy okuw jaýlarynyň biridir.
+
+Slide: 4
+Header: FAKULTETLER WE BÖLÜMLER
+Content: Uniwersitetde dürli ugurlar boýunça fakultetler we bölümler bar: Elektrotehnika, Informatika, Mehanika, Himiýa inženerligi we başgalar.
+
+Slide: 5
+Header: MUGALLYMLAR WE IŞGÄRLER
+Content: Uniwersitetde ýokary derejeli we tejribeli mugallymlar hem-de ylmy işgärler işleýärler. Olar talyplara ýokary hilli bilim bermek üçin ähli tagallalary edýärler.
+
+Slide: 6
+Header: TALYP DURMUŞY
+Content: Talyp durmuşynyň baý we köpugurlylygy bilen tapawutlanýar. Sport, medeniýet, we jemgyýetçilik çäreleri talyplaryň durmuşyny baýlaşdyrýar.
+
+Slide: 7
+Header: TEHNOLOGIK ENJAMLAR WE MÜMKINÇILIKLER
+Content: Uniwersitetiň döwrebap labaratoriýalary, tehnologik enjamlary we kompýuter merkezleri bar. Bu ýerde talyplar iň täze tehnologiýalar bilen işleşip bilýärler.
+
+Slide: 8
+Header: HALKARA HYZMATDAŞLYK
+Content: Oguz han adyndaky inžener tehnologiýalar uniwersiteti dünýäniň dürli uniwersitetleri we ylmy merkezleri bilen hyzmatdaşlyk edýär. Bu bolsa talyplaryň halkara derejesinde bilim almaklaryna mümkinçilik berýär.
+
+Slide: 9
+Header: OKUW MEÝILNAMASY
+Content: Okuw meýilnamasy häzirki zaman talaplaryna laýyklykda düzülendir. Tejribe we teoriýa bilelikde öwredilýär, bu bolsa talyplaryň bilim derejelerini ýokarlandyrýar.
+
+Slide: 10
+Header: TEJRIBÄ ESASLANÝAN OKUW
+Content: Talyp okuwynyň esasy bölegi tejribä esaslanýar. Laboratoriýa işleri, praktikalar we taslamalar arkaly talyplar öz bilimlerini berkitýärler.
+
+Slide: X
+Headers: NETIJE
+Content: Türkmenistanyň Oguz han adyndaky inžener tehnologiýalar uniwersiteti ýokary hilli bilim bermäge we inženerçilik boýunça öňdebaryjy hünärmenleri taýýarlamaga gönükdirilendir. Bu ýerde aljak bilimiňiz size geljekde uly mümkinçilikler açar.
+
+Slide: END
+```siteti, ýokary derejeli inženerleri we tehnologlary taýýarlamakda möhüm rol oýnaýar. Uniwersitetiň döwrebap okuw meýilnamalary, ýokary derejeli mugallymlary we häzirki zaman tehnologik enjamlary bilen talyplara iň ýokary derejesinde bilim berýär.
+
+Slide: END
+```

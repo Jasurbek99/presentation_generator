@@ -1,0 +1,58 @@
+Title:```
+Title: Parallel Programmirlemek Algoritmleri
+
+Slide: 1
+Header: TABLE OF CONTENT
+Content: 1. Giriş we Parallelligiň Esasy Düşünjeleri
+2. Paralel Programmirlemegiň Zerurlygy
+3. Paralel Algoritmleriň Taryhy
+4. Paralel Programmirlemegiň Modellleri
+5. Paralel Algoritmleriň Klasifikasiýasy
+6. Paralel Algoritmleriň Teoriýasy
+7. Paralel Algoritmleri Ulgamlara Ornaşdyrmak
+8. Paralel Algoritmleriň Meseleleri
+9. Paralel Programmirlemegiň Geljegi
+10. Netije we Jemleýji Gözden Geçiriş
+
+Slide: 2
+Header: Giriş we Parallelligiň Esasy Düşünjeleri
+Content: Parallellik, bir wagtyň özünde birnäçe işi ýerine ýetirmek üçin ulgamlaryň kuwwatyny ulanmaga mümkinçilik berýär. Bu bölümde, parallelligiň esasy düşünjelerini we onuň maglumatlary işlemekdäki ähmiýetini düşündireris.
+
+Slide: 3
+Header: Paralel Programmirlemegiň Zerurlygy
+Content: Paralel programmirlemek, has çylşyrymly we köp maglumatly meseleleri çözmek üçin zerurdyr. Bu bölümde, paralel programmirlemegiň näme üçin möhümdigini we haýsy ýagdaýlarda ulanylyp bilinjekdigini ara alyp maslahatlaşarys.
+
+Slide: 4
+Header: Paralel Algoritmleriň Taryhy
+Content: Paralel algoritmleriň ösüş taryhyna göz aýlarys. Bu bölümde, ilkinji paralel ulgamlardan häzirki zaman ýokary öndürijilikli hasaplama ulgamlaryna çenli taryhy ösüşleri öwrenersiňiz.
+
+Slide: 5
+Header: Paralel Programmirlemegiň Modellleri
+Content: Paralel programmirlemegiň dürli modellerini ara alyp maslahatlaşarys. Bu bölümde, SIMD, MIMD, SISD we MISD ýaly modelleriň aýratynlyklaryny we ulanylyş ugurlaryny öwrenersiňiz.
+
+Slide: 6
+Header: Paralel Algoritmleriň Klasifikasiýasy
+Content: Paralel algoritmleriň dürli görnüşlerini we olaryň aýratynlyklaryny öwrenmek. Bu bölümde, maglumatlara esaslanýan, işleýişe esaslanýan we gibrid paralel algoritmleriň klassifikasiýasyny ara alyp maslahatlaşarys.
+
+Slide: 7
+Header: Paralel Algoritmleriň Teoriýasy
+Content: Paralel algoritmleriň teoriýasyna serederis. Bu bölümde, paralel algoritmleriň netijeliligini we olaryň amalyýetde nädip işleýändigini öwrenmek üçin teoriýalaryň nähili ulanyljakdygyny ara alyp maslahatlaşarys.
+
+Slide: 8
+Header: Paralel Algoritmleri Ulgamlara Ornaşdyrmak
+Content: Paralel algoritmleriň dürli ulgamlara ornaşdyrylmagy we optimizasiýasy barada gürrüň ederis. Bu bölümde, paralel algoritmleriň dürli platformalarda nädip işledilýändigi we olaryň netijeliliginiň nähili ýokarlandyrylyp bilinjekdigi barada maglumat bereris.
+
+Slide: 9
+Header: Paralel Algoritmleriň Meseleleri
+Content: Paralel algoritmleriň çözýän meseleleri we olaryň çözgütleri barada gürrüň ederis. Bu bölümde, paralel algoritmleriň dürli meselelerde ulanylyş ugurlaryny we olaryň çözgütlerini ara alyp maslahatlaşarys.
+
+Slide: 10
+Header: Paralel Programmirlemegiň Geljegi
+Content: Paralel programmirlemegiň geljekde nähili ösüşlere eýe boljakdygyny we täze tehnologiýalaryň bu ugra nähili täsir etjekdigini ara alyp maslahatlaşarys. Bu bölümde, täze tendensiýalar we mümkinçilikler barada maglumat bereris.
+
+Slide: X
+Header: SUMMARY
+Content: Bu prezentasiýada biz paralel programmirlemegiň esasy düşünjelerini, onuň taryhyny, modellerini, teoriýasyny we ulanylyş ugurlaryny ara alyp maslahatlaşdyk. Paralel programmirlemegiň häzirki we geljekde nähili ösüşlere eýe boljakdygy barada maglumat berildi.
+
+Slide: END
+```

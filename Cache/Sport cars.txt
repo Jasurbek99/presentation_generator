@@ -1,0 +1,40 @@
+Title:```
+Title: Sport Awto
+
+Slide: 1
+Header: MAZMUNYŇ SANAWY
+Content: 1. Sport Awto Näme?
+2. Sport Awtolaryň Taryhy
+3. Sport Awtolaryň Tehniki Häsiýetleri
+4. Sport Awtolaryň Meseleleri we Geljegi
+5. Netije
+
+Slide: 2
+Header: Sport Awto Näme?
+Content: Sport awto, ýokary tizlik, güýçli hereketlendirijiler we ajaýyp dolandyryş ukyplary bilen tapawutlanýan awtomobillerdir. Olar, esasan, sport ýaryşlary üçin niýetlenendir we adaty awtomobillerden has ýokary tehniki aýratynlyklara eýedirler.
+
+Slide: 3
+Header: Sport Awtolaryň Taryhy
+Content: Sport awtolaryň taryhy 20-nji asyryň başlaryna baryp ýetýär. Ilkibaşda diňe ýaryşlarda ulanylan bu awtomobiller, soňra has giňden ulanylyp başlandy. 1960-70-nji ýyllarda Ferrari, Porsche, Lamborghini ýaly meşhur markalar sport awtolaryň bazarynda öňdäki orunlary eýelediler.
+
+Slide: 4
+Header: Sport Awtolaryň Tehniki Häsiýetleri
+Content: Sport awtolaryň esasy tehniki häsiýetleri:
+- Güýçli hereketlendirijiler (V8, V10, V12)
+- Ajaýyp dolandyryş we aerodinamiki dizaýn
+- Ýokary tizlik we çaltlanma ukyby
+- Lighweight materiallar (karbon süýüm, alýuminiý)
+
+Slide: 5
+Header: Sport Awtolaryň Meseleleri we Geljegi
+Content: Sport awtolaryň esasy meseleleri:
+- Ýokary bahalar we hyzmat çykdajylary
+- Ekologiýa meseleleri (kömürturşy gazynyň çykarylyşy)
+Geljegi: Elektrikli sport awtolar we awtonom sürüş tehnologiýalary bu meseleleri çözmekde uly rol oýnap bilerler.
+
+Slide: SUMMARY
+Header: Netije
+Content: Bu prezentasiýada sport awtolaryň taryhy, tehniki häsiýetleri we olaryň häzirki meseleleri barada gürrüň berdik. Sport awtolar tehnologiýanyň iň soňky gazananlaryny özünde jemleýär we geljekde has-da kämilleşmegi dowam eder.
+
+Slide: END
+```
