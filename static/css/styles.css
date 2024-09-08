@@ -11,3 +11,81 @@ body {
 .container {
     max-width: 600px;
 }
+
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    /* margin: 20px; */
+  }
+  
+  .card {
+    /* margin: 10px; */
+    /* padding: 10px; */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    /* Add background color for unchecked state */
+    background-color: #f5f5f5;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    text-align: center;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto; /* adjust height as needed */
+  }
+  
+  
+  
+  .card>input[type="radio"] {
+    display: none; /* hide the actual checkbox */
+    opacity: 0;
+  }
+  .card>input{
+    display: none;
+  }
+  
+  .card>label {
+    cursor: pointer;
+    position: relative;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  /* Style the checkbox (optional) */
+  .card>label:before {
+    content: "";
+    display: block;
+    width: 15px;
+    height: 15px;
+    /* border: 1px solid #ccc; */
+    /* background-color: #fff; */
+    /* margin-right: 10px; */
+  }
+  
+  .card>label:after {
+    content: "";
+    display: none;
+  }
+  
+  /* Change background color on checked state */
+  .card>input[type="radio"]:checked + label {
+    background-color: #5277dc; /* adjust background color as needed */
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+  }
+  .card>input[type="radio"]:checked + .card{
+    border: 5px solid blue;
+  }
+  .card>input[type="radio"]:checked + label:after {
+    /* display: block;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg); */
+  }
+  

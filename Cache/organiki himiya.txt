@@ -1,0 +1,47 @@
+Title:Title: ORGANIKI HIMIYA
+
+Slide: 1
+Header: MAZMUNYŇ SANAWY
+Content: 
+1. Organiki Himiýanyň Taryhy
+2. Organiki Himiýanyň Esasy Düşünjeleri
+3. Organiki Bileşikleriň Tiplery
+4. Organiki Himiýanyň Amalyýetleri
+5. Jemleýji Netije
+
+Slide: 2
+Header: ORGANIKI HIMIÝANYŇ TARYHY
+Content: 
+Organiki himiýa, ilkinji nobatda, uglewod wodorodlary we olaryň derivatlary bilen baglanyşyklydyr. XIX asyryň başlarynda organiki himiýanyň ilkinji esasy kanunlary we teoretiki esaslary ösdürilipdi. 1828-nji ýylda Fridrih Wöhler, anorganiki maddadan organiki madda sintezlemegi başaryp, organiki himiýanyň ösüşinde uly ädim ätdi. Bu hem organiki himiýanyň diňe ýaşaýyş bilen baglanyşykly däldigini görkezdi.
+
+Slide: 3
+Header: ORGANIKI HIMIÝANYŇ ESASY DÜŞÜNJELERI
+Content: 
+Organiki himiýanyň esasy düşünjeleri uglewod wodorodlarynyň gurluşyna we olaryň reaksiýalaryna esaslanýar. Esasy düşünjeler şulary öz içine alýar:
+- Kovalent baglar: atomlaryň arasynda elektronlaryň paýlaşylmagy arkaly emele gelýän baglar.
+- Izomerler: birmeňzeş molekulýar formulasy bolan, ýöne dürli gurluşly birleşikler.
+- Funksional toparlar: birleşikleriň himiki häsiýetlerini kesgitleýän atomlar topary.
+
+Slide: 4
+Header: ORGANIKI BILEŞIKLERIŇ TIPLERI
+Content: 
+Organiki bileşikler birnäçe esasy kategoriýalara bölünýär:
+- Alkanlar: diňe birmeňzeş uglerod-wodorod baglary bar.
+- Alkenler we alkynlar: ikili ýa-da üçlü baglary bolan uglerodlar.
+- Aromatik birleşikler: benzen halkalaryna esaslanýan birleşikler.
+- Funksional toparly birleşikler: alkogollar, aldehitler, ketonlar, karboksil turşular we ş.m.
+
+Slide: 5
+Header: ORGANIKI HIMIÝANYŇ AMALYÝETLERI
+Content: 
+Organiki himiýa durmuşymyzyň köp ugurlarynda giňden ulanylýar:
+- Lukmançylyk: dermanlaryň sintezinde we täze bejeriş usullarynyň döredilmeginde.
+- Oba hojalygy: pestisidleriň we dökünleriň önümçiliginde.
+- Senagat: plastmassa, rezin, boýaglar we beýleki materiallaryň öndürilmeginde.
+- Energiýa: ýangyçlaryň we beýleki energiýa çeşmeleriniň sintezinde.
+
+Slide: 6
+Header: JEMLEÝJI NETIJE
+Content: 
+Organiki himiýa ylmyň we durmuşymyzyň möhüm bölegidir. Onuň ösüşi we amalyýeti köp ugurlarda täze mümkinçilikleri açýar. Organiki himiýanyň esaslaryny we onuň amalyýetlerini bilmek, talyplara we mugallymlara bu ugurda giňişleýin düşünje we tejribe gazanmaga kömek eder.
+```

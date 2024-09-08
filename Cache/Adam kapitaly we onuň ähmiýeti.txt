@@ -1,0 +1,79 @@
+Title:Title: Adam Kapitaly we Onuň Ähmiýeti
+
+Slide: 1
+Header: MAZMUNY
+Content: 
+1. Giriş
+2. Adam Kapitalynyň Taryhy
+3. Adam Kapitalynyň Düşünjesi
+4. Bilim we Adam Kapitaly
+5. Saglyk we Adam Kapitaly
+6. Tejribe we Adam Kapitaly
+7. Adam Kapitalynyň Ykdysady Ýagdaýlara Täsiri
+8. Adam Kapitalynyň Öňüni Alyş Maýalary
+9. Adam Kapitalynyň Ýokary Netijeliligi
+10. Adam Kapitalynyň Meseleleri
+11. Adam Kapitalynyň Geljegi
+12. Adam Kapitalynyň Statistiki Maglumatlary
+13. Türkmenistanda Adam Kapitaly
+14. Netije
+15. Soraglar we Jogaplar
+
+Slide: 2
+Header: GIRIŞ
+Content: Adam kapitaly, adam maýasynyň şahsyýet hökmünde ösüşine, bilim, saglyk we tejribe arkaly goşýan goşandy bilen baglanyşyklydyr. Bu düşünje ykdysadyýetiň we jemgyýetiň ösüşinde möhüm rol oýnaýar.
+
+Slide: 3
+Header: ADAM KAPITALYNYŇ TARYHY
+Content: Adam kapitalynyň düşünjesi ilkinji gezek 1960-njy ýyllarda ykdysadyýetçiler tarapyndan ulanylyp başlandy. Gary Becker we Theodore Schultz ýaly alymlar bu düşünjäni ösdürdiler.
+
+Slide: 4
+Header: ADAM KAPITALYNYŇ DÜŞÜNJESI
+Content: Adam kapitaly, adamlaryň bilim, tejribe, saglyk we başarnyklaryny öz içine alýar. Bu serişdeler ykdysady ösüşiň we jemgyýetçilik abadançylygynyň esasy hereketlendirijileridir.
+
+Slide: 5
+Header: BILIM WE ADAM KAPITALY
+Content: Bilim, adam kapitalynyň iň möhüm böleklerinden biridir. Bilim derejesi ýokary bolan adamlar has ýokary öndürijilikli, täzeçi we netijeli bolýarlar.
+
+Slide: 6
+Header: SAGLYK WE ADAM KAPITALY
+Content: Saglyk, adam kapitalynyň beýleki möhüm bölegidir. Saglygy gowy bolan adamlar has uzak we öndürijilikli işläp bilýärler.
+
+Slide: 7
+Header: TEJRIBE WE ADAM KAPITALY
+Content: Tejribe, adam kapitalynyň ösüşinde möhüm rol oýnaýar. Tejribeli işgärler iş ýerlerinde has netijeli we täsirli bolýarlar.
+
+Slide: 8
+Header: ADAM KAPITALYNYŇ YKDYSADY ÝAGDAÝLARA TÄSIRI
+Content: Adam kapitaly, ykdysady ösüşiň esasy hereketlendirijileriniň biridir. Adam kapitalynyň ýokary derejesi, önümçiligi we girdejileri artdyrýar.
+
+Slide: 9
+Header: ADAM KAPITALYNYŇ ÖŇÜNI ALYŞ MAÝALARY
+Content: Adam kapitaly, başlangyç maýa goýumlary arkaly ösdürilýär. Bu maýa goýumlar, bilim we saglyk ýaly ugurlarda edilýär.
+
+Slide: 10
+Header: ADAM KAPITALYNYŇ ÝOKARY NETIJELILIGI
+Content: Adam kapitalynyň ýokary derejesi, iş ýerlerinde ýokary öndürijiligi we netijeliligi üpjün edýär. Bu bolsa ykdysady ösüşe uly goşant goşýar.
+
+Slide: 11
+Header: ADAM KAPITALYNYŇ MESELELERI
+Content: Adam kapitalynyň ösüşinde dürli meseleler ýüze çykýar. Bilim we saglyk ulgamynda deňsizlige sebäp bolýan kynçylyklar bar.
+
+Slide: 12
+Header: ADAM KAPITALYNYŇ GELJEGI
+Content: Adam kapitalynyň geljeginde, tehnologiýanyň we bilim derejesiniň artmagy bilen täze mümkinçilikler peýda bolýar. Ýöne, bu ugurda täze strategiýalar we maýa goýumlar zerurdyr.
+
+Slide: 13
+Header: ADAM KAPITALYNYŇ STATISTIKI MAGLUMATLARY
+Content: Dünýä boýunça adam kapitalynyň ösüşine degişli statistiki maglumatlar, dürli ýurtlaryň bilim we saglyk derejesiniň ösüşini görkezýär. Bu maglumatlar, ýurtlaryň ösüş mümkinçiliklerini we kynçylyklaryny görkezýär.
+
+Slide: 14
+Header: TÜRKMENISTANDA ADAM KAPITALY
+Content: Türkmenistanda adam kapitalynyň ösüşi, bilim we saglyk ulgamynyň kämilleşdirilmegi bilen baglanyşyklydyr. Döwlet tarapyndan bu ugurlar boýunça dürli programmalar durmuşa geçirilýär.
+
+Slide: 15
+Header: NETIJE
+Content: Adam kapitaly, ykdysadyýetiň we jemgyýetiň ösüşinde möhüm orun eýeleýär. Bilim, saglyk we tejribe arkaly adam kapitalynyň ösdürilmegi, ýurtlaryň ösüşine we jemgyýetiň abadançylygyna uly goşant goşýar.
+
+Slide: END
+```

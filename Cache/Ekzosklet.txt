@@ -1,0 +1,56 @@
+Title:Title: Ekzosklet
+
+Slide: 1
+Header: TABLE OF CONTENT
+Content: 
+1. Giriş we Taryh
+2. Ekzoskletiň Düşünjesi
+3. Ekzoskletiň Taryhçasy
+4. Ekzoskletiň Tehnologiýasy
+5. Ekzoskletiň Ulanylyşy
+6. Ekzoskletiň Geljegi
+7. Türkmenistanda Ekzosklet
+8. Jemleýji Netije
+
+Slide: 2
+Header: Giriş we Taryh
+Content: 
+Ekzoskletler, adam bedeniniň hereketlerini güýçlendirmek ýa-da goldamak üçin ulanylýan tehnologiýalardyr. Bu enjamlar, esasan, lukmançylyk, harby we senagat pudaklarynda giňden ulanylýar.
+
+Slide: 3
+Header: Ekzoskletiň Düşünjesi
+Content: 
+Ekzosklet, adamyň daşky tarapyna geýilýän mehaniki skeletdir. Bu enjam, ulanyjynyň hereketlerini güýçlendirip, agyr işleri ýerine ýetirmegi ýeňilleşdirýär. Ekzoskletler, adamyň hereketlerini takyk yzarlap, fiziki güýji artdyrýar.
+
+Slide: 4
+Header: Ekzoskletiň Taryhçasy
+Content: 
+Ekzoskletleriň taryhçasy 20-nji asyryň ortalaryna barýar. Ilkinji prototipler harby maksatlar üçin döredildi. Soňra bu tehnologiýa lukmançylyk we senagat pudaklarynda hem ulanylyp başlandy.
+
+Slide: 5
+Header: Ekzoskletiň Tehnologiýasy
+Content: 
+Ekzoskletler dürli sensorlar, aktuatorlar we kompýuter ulgamlary bilen enjamlaşdyrylan. Bu tehnologiýalar, ulanyjynyň hereketlerini yzarlap, ony güýçlendirmegi üpjün edýär. Ekzoskletler, adatça, batareýalar bilen işleýär we dürli režimlerde ulanylyp bilner.
+
+Slide: 6
+Header: Ekzoskletiň Ulanylyşy
+Content: 
+Ekzoskletler, esasan, lukmançylykda reabilitasiýa maksatlary üçin ulanylýar. Şeýle hem, agyr senagatda we harby pudaklarda giňden ulanylýar. Bu enjamlar, agyr ýükleri götermekde we uzak wagtlap fiziki işleriň ýerine ýetirilmeginde kömek edýär.
+
+Slide: 7
+Header: Ekzoskletiň Geljegi
+Content: 
+Ekzosklet tehnologiýasy yzygiderli ösýär. Geljekde, bu enjamlaryň has-da ýeňilleşdirilmegi we köpugurly ulanylyşy göz öňünde tutulýar. Ekzoskletler, adamyň fiziki mümkinçiliklerini artdyrmakda uly mümkinçiliklere eýe bolar.
+
+Slide: 8
+Header: Türkmenistanda Ekzosklet
+Content: 
+Türkmenistanda ekzosklet tehnologiýasynyň ösüşi üçin uly mümkinçilikler bar. Bu tehnologiýa, ýurdumyzyň senagat we lukmançylyk pudaklarynda giňden ulanylyp bilner. Türkmenistanda ekzoskletleriň ulanylyşy, ykdysadyýetiň ösüşine we ilatyň saglygyna uly goşant goşar.
+
+Slide: 9
+Header: Jemleýji Netije
+Content: 
+Ekzoskletler, adamyň fiziki güýjüni artdyrýan we dürli pudaklarda ulanylýan tehnologiýalardyr. Bu tehnologiýanyň geljegi uly bolup, Türkmenistanda hem giňden ulanylyp bilner. Ekzoskletler, ykdysadyýetiň we saglygy goraýşyň ösmegine uly goşant goşar.
+
+Slide: END
+```

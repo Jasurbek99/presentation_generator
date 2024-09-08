@@ -1,0 +1,35 @@
+Title:Title: Kartografiya
+
+Slide: 1
+Header: MAZMUNYŇ SANAWY
+Content: 1. Kartografiya barada umumy maglumat
+2. Kartografik usullar we tehnologiýalar
+3. Kartografiki maglumatlary ýygnamak we işlemek
+4. Kartografiki önümleriň görnüşleri we ulanylyşy
+5. Jemleýji maglumatlar
+
+Slide: 2
+Header: KARTOGRAFIYA BARADA UMUMY MAGLUMAT
+Content: 
+Kartografiya geografiýanyň bir bölegi bolup, ýer ýüzüniň kartalaryny düzmek, olaryň mazmunyny we görnüşlerini öwrenmek bilen meşgullanýar. Kartografiya diňe bir ýer ýüzüniň şekilini görkezmek bilen çäklenmän, eýsem dürli tematik maglumatlary hem öz içine alýar.
+
+Slide: 3
+Header: KARTOGRAFIK USULLAR WE TEHNOLOGIÝALAR
+Content: 
+Kartografiyada dürli usullar we tehnologiyalar ulanylýar. Olaryň arasynda geodeziýa we topografiýa, GIS (Geografik Maglumatlar Sistemi) we uzakdan zondlama usullary bar. Bu tehnologiýalar kartalaryň has takyk we anyk bolmagyny üpjün edýär.
+
+Slide: 4
+Header: KARTOGRAFIKI MAGLUMATLARY ÝYGNAMAK WE IŞLEMEK
+Content: 
+Kartografik maglumatlary ýygnamak üçin dürli çeşmeler ulanylýar: sahyra gözegçiligi, sputnik suratlary, GPS maglumatlary we beýleki geografik çeşmeler. Bu maglumatlar ýörite programma üpjünçiliklerinde işlenip, kartalara geçirilýär.
+
+Slide: 5
+Header: KARTOGRAFIKI ÖNÜMLERIŇ GÖRNÜŞLERI WE ULANYLYŞY
+Content: 
+Kartografiki önümler dürli görnüşlerde bolýar: topografik kartalar, tematik kartalar, interaktiw kartalar we 3D modeller. Bu kartalar ylym, bilim, syýahatçylyk, ykdysadyýet we beýleki ugurlarda giňden ulanylýar.
+
+Slide: 6
+Header: JEMLEÝJI MAGLUMATLAR
+Content: 
+Kartografiya geografiýanyň möhüm bir bölegi bolup, ýer ýüzüniň dürli maglumatlaryny takyk we anyk şekillendirmäge mümkinçilik berýär. Tehnologiýalaryň ösmegi bilen kartografik usullar has kämilleşýär we täze mümkinçilikler açylýar. Kartografiki bilimler geografiýa, informatika we geodeziýa ugurlarynda möhüm orny eýeleýär.
+```

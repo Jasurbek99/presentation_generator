@@ -1,0 +1,72 @@
+Title:Title: React JS: Programmirlashyň Geljegi
+
+Slide: 1
+Header: MAZMUNY
+Content: 
+1. Giriş
+2. React JS näme?
+3. React JS-iň Taraplary
+4. React JS-iň Arhitekturasy
+5. Komponentler we Hooks
+6. React JS-iň Üstünlikleri
+7. React JS bilen Amaly Taslamalar
+8. React JS-iň Geljegi
+9. Netije
+10. Soraglar we Jogaplar
+
+Slide: 2
+Header: Giriş
+Content: 
+Bu bölümde, React JS barada umumy maglumat bereris we onuň ähmiýeti barada gysgaça düşünje bereris.
+
+Slide: 3
+Header: React JS näme?
+Content: 
+React JS, Facebook tarapyndan işlenip düzülen açyk çeşmeli JavaScript kitaphanasy bolup, ulanyjy interfeýslerini döretmek üçin ulanylýar.
+
+Slide: 4
+Header: React JS-iň Taraplary
+Content: 
+React JS-iň esasy taraplary:
+- Bir ugurly maglumat akymy
+- Virtual DOM
+- Komponent esasly arhitektura
+
+Slide: 5
+Header: React JS-iň Arhitekturasy
+Content: 
+React JS-iň arhitekturasy, komponentler we Virtual DOM ýaly esasy düşünjeleri öz içine alýar.
+
+Slide: 6
+Header: Komponentler we Hooks
+Content: 
+Komponentler: UI-ny bölüp, gaýtadan ulanylýan bölekler.
+Hooks: Funksional komponentlerde döwlet we beýleki React aýratynlyklaryny ulanmak üçin funksiýalar.
+
+Slide: 7
+Header: React JS-iň Üstünlikleri
+Content: 
+- Çalt we täsirli
+- Durnukly kod
+- Uly jemgyýet we köp sanly çeşme
+
+Slide: 8
+Header: React JS bilen Amaly Taslamalar
+Content: 
+React JS bilen işlenip düzülen käbir amaly taslamalar:
+- Facebook
+- Instagram
+- Airbnb
+
+Slide: 9
+Header: React JS-iň Geljegi
+Content: 
+React JS-iň geljegi barada gürrüň bermek, onuň ösüşi we täze aýratynlyklary barada maglumat bermek.
+
+Slide: 10
+Headers: Netije
+Content: 
+React JS, häzirki wagtda iň meşhur JavaScript kitaphanalarynyň biri bolup, ulanyjy interfeýslerini döretmekde uly mümkinçilikler berýär.
+
+Slide: END
+```

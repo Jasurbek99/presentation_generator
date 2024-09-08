@@ -1,0 +1,40 @@
+Title:Integral we Onuň Ulanylyşy
+
+Slide: 1
+Header: MAZMUNY
+Content: 1. Integral düşünjesi
+2. Integralyň taryhy ösüşi
+3. Integral görnüşleri
+4. Integralyň esasy düzgünleri
+5. Geometriýada we fizikada integral
+6. Meseleler we çözgütler
+7. Jemleýji syn
+
+Slide: 2
+Header: Integral düşünjesi
+Content: Integral, matematikada meýdany, göwrümi we beýleki ululyklary hasaplamak üçin ulanylýan möhüm usuldyr. Ol funksiýanyň çäkli ýa-da çäksiz aralykda jemlenýän bahalaryny üýtgewsiz saklaýar.
+
+Slide: 3
+Header: Integralyň taryhy ösüşi
+Content: Integralyň taryhy, onuň kämilleşmegi we häzirki döwre çenli ösüşi barada maglumat. Bu ýerde Isaak Nyutonyň we Gottfried Wilhelm Leibniziň goşantlary barada gürrüň ediler.
+
+Slide: 4
+Header: Integral görnüşleri
+Content: Integral iki görnüşe bölünýär: kesgitli integral we kesgitsiz integral. Kesgitli integral, belli bir aralykda funksiýanyň meýdanyny hasaplaýar, kesgitsiz integral bolsa, antiderivatif hökmünde ulanylýar.
+
+Slide: 5
+Header: Integralyň esasy düzgünleri
+Content: Integralyň esasy düzgünleri we teoremalary, şol sanda integral almagyň esasy metodlary: çalyşma usuly, bölekleýin integrirleme we beýleki metodlar.
+
+Slide: 6
+Header: Geometriýada we fizikada integral
+Content: Geometriýada we fizikada integralyň ulanylyşy, şol sanda meýdany, göwrümi we güýji hasaplamak üçin ulanylýan metodlar barada maglumat.
+
+Slide: 7
+Header: Meseleler we çözgütler
+Content: Integral boýunça meseleler we olaryň çözgütleri. Bu ýerde dürli derejedäki meseleler we olary çözmegiň ýollary görkeziler.
+
+Slide: 8
+Header: Jemleýji syn
+Content: Bu prezentasiýada integral düşünjesi, onuň taryhy we ulanylyşy barada maglumat berildi. Integralyň matematika, geometriýa we fizika ylmyna goşan goşantlary barada gürrüň edildi.
+```

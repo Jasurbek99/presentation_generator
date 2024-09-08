@@ -1,0 +1,68 @@
+Title:Web Programmirleme
+
+Slide: 1
+Header: MAZMUN SANAWY
+Content: 
+1. Giriş
+2. Web Programmirlemegiň Möhümligi
+3. Front-end Programmirleme
+4. HTML we CSS
+5. JavaScript
+6. Back-end Programmirleme
+7. Serverler we Maglumatlar Bazasynyň Dolandyrylyşy
+8. Web Howpsuzlygy
+9. Web Programmirlemegiň Geljegi
+10. Netije we Jemleýji Gözýetim
+
+Slide: 2
+Header: Giriş
+Content: 
+Web programmirleme, internetde işleýän web sahypalaryny we web programmalaryny döretmek üçin ulanylýan diller we tehnologiýalar toplumydyr. Bu täjirçilik, bilim we jemgyýetçilik ulgamynda giňden ulanylýar.
+
+Slide: 3
+Header: Web Programmirlemegiň Möhümligi
+Content: 
+Web programmirleme häzirki zaman jemgyýetinde möhüm orny eýeleýär. Ol elektron söwda, maglumat alyşmak, aragatnaşyk we beýleki köp sanly ugurlar üçin zerurdyr. Şonuň üçin bu ugurda bilim almak täsirli we peýdalydyr.
+
+Slide: 4
+Header: Front-end Programmirleme
+Content: 
+Front-end programmirleme, ulanyjy interfeýsiniň we web sahypasynyň estetikasynyň döredilmegi bilen baglanyşyklydyr. Bu bölümde HTML, CSS we JavaScript ýaly tehnologiýalar ulanylýar.
+
+Slide: 5
+Header: HTML we CSS
+Content: 
+HTML (HyperText Markup Language) we CSS (Cascading Style Sheets) web sahypalarynyň gurluşyny we dizaýnyny kesgitlemek üçin ulanylýar. HTML sahypanyň mazmunyny, CSS bolsa onuň görnüşini dolandyrýar.
+
+Slide: 6
+Header: JavaScript
+Content: 
+JavaScript web sahypalaryna dinamiki we interaktiw funksiýalary goşmak üçin ulanylýar. Bu dil ulanyjy bilen aragatnaşyk saklamak, maglumatlary işlemek we web sahypalarynyň hereketli elementlerini döretmek üçin peýdalanylýar.
+
+Slide: 7
+Header: Back-end Programmirleme
+Content: 
+Back-end programmirleme, web sahypasynyň serwer tarapynda işleýän böleklerini döretmek bilen meşgullanýar. Bu bölümde maglumatlaryň saklanmagy, işleýşi we ulanyjy bilen aragatnaşyk saklamak üçin dürli diller we tehnologiýalar ulanylýar.
+
+Slide: 8
+Header: Serverler we Maglumatlar Bazasynyň Dolandyrylyşy
+Content: 
+Web programmirlemede serwerler we maglumatlar bazasy möhüm orny eýeleýär. Serwerler web sahypalarynyň işini üpjün edýär, maglumatlar bazasy bolsa ulanyjylaryň maglumatlaryny saklaýar we dolandyrýar.
+
+Slide: 9
+Header: Web Howpsuzlygy
+Content: 
+Web howpsuzlygy, web sahypalarynyň we ulanyjylaryň maglumatlarynyň goragyny üpjün etmek üçin ulanylýan tehnologiýalar we strategiýalardyr. Bu ugurda maglumatlaryň şifrlenmegi, ulanyjy autentifikasiýasy we beýleki gorag çäreleri ulanylýar.
+
+Slide: 10
+Header: Web Programmirlemegiň Geljegi
+Content: 
+Web programmirlemegiň geljegi giň we mümkinçiliklere baý. Täze tehnologiýalar we gurallar web sahypalarynyň we web programmalarynyň has çylşyrymly we täsirli bolmagyny üpjün edýär.
+
+Slide: 11
+Header: Netije we Jemleýji Gözýetim
+Content: 
+Web programmirleme häzirki zaman jemgyýetiniň möhüm bölegidir. Onuň üsti bilen dürli ugurlar boýunça täze mümkinçilikler we çözgütler döredilýär. Bu ugurda bilim almak we tejribe toplamak, geljekde uly üstünliklere ýetmegiň açarydyr.
+
+Slide: END
+```

@@ -1,44 +1,33 @@
-from flask import Flask, render_template, request, redirect, url_for
 import os
-import re
 import random
+import re
 import time
-import requests
+import collections.abc as collections_abc
+from dotenv import load_dotenv
+from flask import Flask, render_template, request, redirect, url_for
 from pptx import Presentation
-from pptx.util import Inches
-import openai
-
+from openai import OpenAI
+import prompts
+import requests
+import base64
+from pptx.enum.shapes import MSO_SHAPE_TYPE, PP_PLACEHOLDER
+import base64
+import io
+import requests
+from PIL import Image
 app = Flask(__name__)
-openai.api_key = os.getenv("OPENAI_API_KEY")
+import urllib.request
+# Set your OpenAI API key
+load_dotenv()
+api_key = os.environ.get("OPENAI_API_KEY")
+client = OpenAI(api_key=api_key)
 
-# DALL-E 2 API call
-def generate_dalle_image(prompt):
+def create_ppt_text(prompt, slides, info="", model_type='gpt-3.5-turbo'):
+    final_prompt = prompts.make_prompt(prompt, slides, info, model_type)
+    print(f"Model=={model_type}")
+    # Call the OpenAI API
     try:
-        response = openai.images.generate(
-            prompt=prompt,
-            n=1,
-            size="1024x1024"
-        )
-        image_url = response.data[0].url
-        image_response = requests.get(image_url)
-        if image_response.status_code == 200:
-            return image_response.content
-        else:
-            return None
-    except Exception as e:
-        print(f"Error generating image: {e}")
-        return None
-
-def save_image(content, filename):
-    with open(filename, 'wb') as f:
-        f.write(content)
-
-def create_ppt_text(prompt, slides, info=""):
-    model_type = "gpt-4-turbo" if info else "gpt-3.5-turbo"
-    final_prompt = f"{prompt} {slides} {info} {model_type}"
-    
-    try:
-        response = openai.chat.completions.create(
+        response = client.chat.completions.create(
             model=model_type,
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
@@ -56,15 +45,49 @@ def create_ppt_text(prompt, slides, info=""):
     except Exception as e:
         print(f"Error in OpenAI API call: {e}")
         return "Title:Error in generating slide content"
+def process_image_to_base64(url):
+    response = requests.get(url)
+    image_bytes = io.BytesIO(response.content)
+    img = Image.open(image_bytes)
+    jpeg_image = io.BytesIO()
+    img.save(jpeg_image, format='JPEG')
+    jpeg_image.seek(0)
+    base64_string = base64.b64encode(jpeg_image.read()).decode('utf-8')
+    return "data:image/jpeg;base64," + base64_string
+def generate_dalle_image(prompt,i):
+    print("generating image")
+    try:
+        response = client.images.generate(
+            model = "dall-e-3",
+            prompt=prompt,
+            n=1,
+            response_format='url',
+            size="1024x1024"
+        )
+        print(response)
+        image_url = response['data'][0]['url']
+        image_filename = f'Cache/slide_{i}_image.jpg'
+        print("image=")
+        print(image_url)
+        urllib.request.urlretrieve(image_url, image_filename) 
+    except Exception as e:
+        print(f"Error generating image: {e}")
+        return False
 
-def create_ppt(text_file, design_number, ppt_name, image_filename=None):
+def save_image(content, filename):
+    with open(filename, 'wb') as f:
+        f.write(content)
+
+
+
+
+def create_ppt(text_file, design_number, ppt_name):
     prs = Presentation(f"Designs/Design-{design_number}.pptx")
     slide_count = 0
     header = ""
     content = ""
     last_slide_layout_index = -1
     firsttime = True
-
     with open(text_file, 'r', encoding='utf-8') as f:
         for line_num, line in enumerate(f):
             if line.startswith('Title:'):
@@ -73,12 +96,6 @@ def create_ppt(text_file, design_number, ppt_name, image_filename=None):
                 title = slide.shapes.title
                 title.text = header
                 body_shape = slide.shapes.placeholders[1]
-                
-                if image_filename:
-                    left = Inches(1)
-                    top = Inches(1.5)
-                    height = Inches(3.5)
-                    slide.shapes.add_picture(image_filename, left, top, height=height)
                 continue
             elif line.startswith('Slide:'):
                 if slide_count > 0:
@@ -123,32 +140,57 @@ def create_ppt(text_file, design_number, ppt_name, image_filename=None):
             body_shape = slide.shapes.placeholders[slide_placeholder_index]
             tf = body_shape.text_frame
             tf.text = content
-
-    prs.save(f'GeneratedPresentations/{ppt_name}.pptx')
-    file_path = f"GeneratedPresentations/{ppt_name}.pptx"
+    placeholders = extract_placeholders(prs)
+    print("insert image")
+    insert_images( placeholders, text_file)
+       
+                            
+    prs.save(f'static/GeneratedPresentations/{ppt_name}.pptx')
+    file_path = f"static/GeneratedPresentations/{ppt_name}.pptx"
     return f"{file_path}"
+def extract_placeholders(prs):
+    placeholders = []
+    for slide in prs.slides:
+        for shape in slide.shapes:
+           if shape.placeholder_format.idx == 1 and shape.placeholder_format.type == PP_PLACEHOLDER.PICTURE:
+                placeholders.append((slide, shape))
+    return placeholders
 
-def generate_ppt(prompt, add_info, slides, theme, model_type):
+def insert_images(placeholders, text_file):
+    with open(text_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+    slides_content = content.split('Slide:')
+    for i, (slide, placeholder) in enumerate(placeholders):
+        if i < len(slides_content):
+            image_prompt = slides_content[i]
+            image_content = generate_dalle_image(image_prompt,i)
+            if image_content:
+                image_filename = f'Cache/slide_{i}_image.png'
+                # save_image(image_content, image_filename)
+                placeholder.insert_picture(image_filename)
+
+
+def choose_slide_layout(last_slide_layout_index, first_time):
+    layout_indices = [1, 7, 8]
+    if first_time:
+        return 1
+    slide_layout_index = last_slide_layout_index
+    while slide_layout_index == last_slide_layout_index:
+        slide_layout_index = random.choice(layout_indices)
+    return slide_layout_index
+
+def generate_ppt(prompt, add_info, slides, theme,model_type):
     prompt = re.sub(r'[^\w\s.\-\(\)]', '', prompt)
     if theme not in range(1, 8):
         print("Invalid theme number, default theme will be applied.")
         theme = 1
-
+    
     print("Generating the PowerPoint, this could take some time depending on your GPU...\n")
-
+    
     try:
         with open(f'Cache/{prompt}.txt', 'w', encoding='utf-8') as f:
-            f.write(create_ppt_text(prompt, slides, add_info))
-        
-        # Generate DALL-E image for the title slide
-        image_content = generate_dalle_image(prompt)
-        if image_content:
-            image_filename = f'Cache/{prompt}_image.png'
-            save_image(image_content, image_filename)
-        else:
-            image_filename = None
-        
-        ppt_path = create_ppt(f'Cache/{prompt}.txt', theme, prompt, image_filename)
+            f.write(create_ppt_text(prompt, slides, add_info,model_type))
+        ppt_path = create_ppt(f'Cache/{prompt}.txt', theme, prompt)
         return str(ppt_path)
     except IOError as e:
         print(f"Error creating PowerPoint file: {e}")
@@ -157,39 +199,35 @@ def generate_ppt(prompt, add_info, slides, theme, model_type):
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == 'POST':
-        language = request.form['language']
         topic = request.form['topic']
         add_info = request.form['add_info']
         slides = int(request.form['slides'])
         theme = int(request.form['theme'])
-        
-        # Adjust the model based on language
-        if language == 'tk':
-            model_type = "gpt-4-o"
+        language = request.form['language']
+        print(language)
+        print(f'theme={theme}')
+        if language == 'Turkmen':
+            model_type = "gpt-4o"
         else:
             model_type = "gpt-3.5-turbo"
-
-        # Generate the PowerPoint
+        add_info=add_info+f" Presentation must be in {language} language "
         start_time = time.time()
-        ppt_path = generate_ppt(topic, add_info, slides, theme, model_type)
+        ppt_path = generate_ppt(topic, add_info, slides, theme,model_type)
         end_time = time.time()
-        
+       
         if ppt_path:
             elapsed_time = round((end_time - start_time), 2)
-            return redirect(url_for('result', filepath=ppt_path, time=elapsed_time, language=language))
+            return redirect(url_for('result', filepath=ppt_path, time=elapsed_time))
         else:
             message = "Failed to generate PowerPoint."
             return render_template('index.html', error=message)
-    
     return render_template('index.html')
 
 @app.route('/result')
 def result():
     filepath = request.args['filepath']
     elapsed_time = request.args['time']
-    language = request.args['language']
-    relative_filepath = filepath.replace('static/', '')
-    return render_template('result.html', filepath=relative_filepath, time=elapsed_time, language=language)
+    return render_template('result.html', filepath=filepath, time=elapsed_time)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)

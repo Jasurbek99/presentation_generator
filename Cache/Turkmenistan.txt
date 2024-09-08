@@ -1,0 +1,38 @@
+Title:Title: Türkmenistan: Geçmişi, Häzirki Zaman we Geljegi
+
+Slide: 1
+Header: MAZMUNYŇ SANAWY
+Content: 
+1. Giriş
+2. Taryhy
+3. Häzirki Zaman
+4. Geljekki Mümkinçilikler
+5. Netije
+
+Slide: 2
+Header: Giriş
+Content: 
+Türkmenistan, Merkezi Aziýanyň ýüreginde ýerleşýän bir döwletdir. Bu ýurt öz baý taryhy, medeniýeti we tebigy baýlyklary bilen tapawutlanýar. Türkmenistan, dünýäniň iň uly çölüniň bir bölegi bolan Garagum çölüniň ýerleşen ýeridir. Şeýle hem, ýurduň halky we medeniýeti bilen tanyş bolmak örän gyzyklydyr.
+
+Slide: 3
+Header: Taryhy
+Content: 
+Türkmenistan, taryhyň dürli döwürlerinde möhüm orny eýelän ýurtlaryň biridir. Bu ýer, beýik Yüpek Ýolunyň ugrunda ýerleşip, dürli medeniýetleriň we halklaryň aragatnaşyk nokady bolupdyr. Gadymy Merw, Nusaý we Köneürgenç ýaly şäherler, ýurduň baý taryhynyň şaýatlarydyr. Şeýle hem, Türkmenistan, taryhy şahsyýetler bilen baý bolup, olaryň mirasy häzirki zaman türkmen halkynyň durmuşynda uly orun eýeleýär.
+
+Slide: 4
+Header: Häzirki Zaman
+Content: 
+Häzirki wagtda Türkmenistan, ykdysady ösüşiň we halkara hyzmatdaşlygyň möhüm merkezi bolup durýar. Nebit we tebigy gaz baýlyklary ýurduň ykdysadyýetiniň esasy diregi bolup durýar. Şeýle hem, oba hojalygy, dokma senagaty we syýahatçylyk pudaklary ýurduň ykdysady ösüşine uly goşant goşýar. Türkmenistanyň paýtagty Aşgabat, öz ajaýyp binagärligi we arassaçylygy bilen dünýä meşhurdyr.
+
+Slide: 5
+Header: Geljekki Mümkinçilikler
+Content: 
+Türkmenistanyň geljekki ösüşi üçin uly mümkinçilikler bar. Täze infrastruktura taslamalary, bilim we ylym pudagynda ösüşler, şeýle hem, halkara hyzmatdaşlyklar ýurduň geljekki ösüşiniň esasy ugurlarydyr. Türkmen halky, öz baý medeni mirasyny saklap, geljekde has-da gülläp ösmegi maksat edinýär.
+
+Slide: 6
+Header: Netije
+Content: 
+Türkmenistan, öz baý taryhy, medeniýeti we ykdysady mümkinçilikleri bilen Merkezi Aziýanyň möhüm döwletleriniň biridir. Geçmişden alnan tejribeler we häzirki zaman ösüşleri bilen, ýurduň geljegi uly mümkinçiliklere eýedir. Bilim we ylym pudagynda edilýän işler, ýurduň geljekki nesilleriniň has-da ösüşine we gülläp ösmegine ýol açar.
+
+Slide: END
+```

@@ -1,0 +1,33 @@
+Title:### Title: Maglumatlar Bazasynyň Dolandyryş Ulgamlary
+
+Slide: 1
+Header: MAZMUNY
+Content: 1. Maglumatlar Bazasynyň Dolandyryş Ulgamlary näme?
+2. Maglumatlar Bazasynyň Dolandyryş Ulgamlarynyň Taryhy
+3. Maglumatlar Bazasynyň Dolandyryş Ulgamlarynyň Dürlüligi
+4. Maglumatlar Bazasynyň Dolandyryş Ulgamlarynyň Üstünlikleri
+5. Maglumatlar Bazasynyň Dolandyryş Ulgamlarynyň Kämilleşen Tehnologiýalary
+6. Jemleýji Netije
+
+Slide: 2
+Header: Maglumatlar Bazasynyň Dolandyryş Ulgamlary näme?
+Content: Maglumatlar Bazasynyň Dolandyryş Ulgamlary (MBDU) - maglumatlaryň saklanmagyny, dolandyrylmagyny we doly işlenmegini üpjün edýän programma üpjünçiligidir. Bu ulgamlaryň esasy wezipesi maglumatlary netijeli we ygtybarly dolandyrmakdyr.
+
+Slide: 3
+Header: Maglumatlar Bazasynyň Dolandyryş Ulgamlarynyň Taryhy
+Content: MBDU-laryň taryhy 1960-njy ýyllara baryp ýeter. Ilkinji maglumatlar bazalary tekst esaslydy we ýönekeý maglumatlary saklaýardy. 1970-nji ýyllarda relational (gatnaşykly) maglumatlar bazalary peýda boldy we maglumatlary tablisalarda saklamak has meşhur boldy.
+
+Slide: 4
+Header: Maglumatlar Bazasynyň Dolandyryş Ulgamlarynyň Dürlüligi
+Content: MBDU-lar dürli görnüşlerde bolýar: relational (gatnaşykly), noSQL, obýekt esasly we beýleki görnüşler. Relational MBDU-lar maglumatlary tablisalarda saklaýar we SQL (Structured Query Language) ulanylyp maglumatlar soralýar. NoSQL bazalary bolsa adatça uly göwrümli we dürli görnüşli maglumatlary saklamak üçin peýdalanylýar.
+
+Slide: 5
+Header: Maglumatlar Bazasynyň Dolandyryş Ulgamlarynyň Üstünlikleri
+Content: MBDU-laryň esasy artykmaçlyklaryna maglumatlaryň ygtybarly saklanmagy, ýokary derejede maglumat howpsuzlygy, maglumatlaryň çalt we netijeli işlenmegi we köp ulanyjynyň bir wagtda maglumatlara elýeterliliginiň üpjün edilmegi degişlidir.
+
+Slide: 6
+Header: Jemleýji Netije
+Content: Jemleýji netijede, Maglumatlar Bazasynyň Dolandyryş Ulgamlary häzirki zaman maglumatlar dolandyryşynda möhüm orny eýeleýär. Olaryň taryhy we görnüşleri barada düşünje almak, bu ulgamlaryň nähili işleýändigini we olaryň haýsy ugurlarda peýdalanylýandygyny bilmek üçin esasy ähmiýete eýedir.
+
+Slide: END
+```

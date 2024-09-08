@@ -1,39 +1,44 @@
-Title:Life's Purpose: A Philosophical Exploration
+Title:Title: Durmuşyň Maksady
 
 Slide: 1
-Header: TABLE OF CONTENTS
-Content: 1. Introduction to Life's Purpose
-         2. Different Perspectives on Life's Purpose
-         3. Finding Meaning and Fulfillment
-         4. Living a Purposeful Life
-         5. Conclusion and Reflection
+Header: MAZMUUNYŇ SANAWY
+Content: 
+1. Durmuşyň Maksady Hakynda
+2. Filsofiýa we Teologiýa Nukdaýnazary
+3. Durmuş Maksadyň Ylmy Çemeleşmeleri
+4. Şahsy Maksatlary Tapmak
+5. Maksadyň Durmuşa Täsiri
+6. Netije
 
 Slide: 2
-Header: Introduction to Life's Purpose
-Content: - What is the purpose of life?
-         - Why is it important to explore this question?
-         - How can understanding life's purpose impact our choices and actions?
+Header: DURMUŞYŇ MAKSADY HAKYNDA
+Content: 
+Durmuşyň maksady, adamyň ýaşaýşynyň manysyny we onuň bu dünýäde nähili rol oýnaýandygyny düşündirýän meseleleriň biridir. Bu mowzuk filosofiýa, teologiýa we ylym tarapyndan dürli taraplardan öwrenilýär.
 
 Slide: 3
-Header: Different Perspectives on Life's Purpose
-Content: - Religious views on the purpose of life
-         - Philosophical perspectives on existentialism and nihilism
-         - Scientific viewpoints on life's meaning and evolution
+Header: FILOSOFIÝA WE TEOLOGIÝA NUKDAÝNAZARY
+Content: 
+Filosofiýa nukdaýnazaryndan durmuş maksady adamzadyň many-mazmunly, ahlakly we bagtly ýaşaýşyny gazanmakdyr. Teologiýa bolsa, bu maksadyň Hudaýyň isleglerine laýyklykda ýaşaýyşda tapylýandygyny öňe sürýär.
 
 Slide: 4
-Header: Finding Meaning and Fulfillment
-Content: - Reflecting on personal values and goals
-         - Seeking purpose through relationships and experiences
-         - Strategies for discovering and nurturing a sense of purpose
+Header: DURMUŞ MAKSADYŇ YLMY ÇEMELEŞMELERI
+Content: 
+Ylym durmuş maksadyny adam psihologiýasy, biologiýasy we jemgyýetçilik gatnaşyklary arkaly düşündirýär. Maksatlaryň adamyň ruhy we fiziki saglygyna nähili täsir edýändigi barada ylmy barlaglar geçirilýär.
 
 Slide: 5
-Header: Living a Purposeful Life
-Content: - Setting goals and working towards them
-         - Embracing challenges and setbacks as part of the journey
-         - Cultivating gratitude and mindfulness in daily life
+Header: ŞAHSY MAKSATLARY TAPMAK
+Content: 
+Her bir adam üçin durmuş maksady aýratyn we özboluşlydyr. Şahsy maksatlary tapmak üçin özüňi tanamak, gyzyklanmalary we ukyplary öwrenmek möhümdir. Bu maksada ýetmek üçin meýilnama düzüp, yzygiderli işlemek gerek.
+
+Slide: 6
+Header: MAKSADYŇ DURMUŞA TÄSIRI
+Content: 
+Durmuş maksady adamyň özüni bagtly we kanagatlanarly duýmagyna, ruhy ösüşine we jemgyýetçilik gatnaşyklaryna uly täsir edýär. Maksady bolan adamlar has işjeň, ruhubelent we üstünlikli bolýarlar.
+
+Slide: 7
+Headers: NETIJE
+Content: 
+Durmuşyň maksady adamyň ýaşaýşynyň manysyny we onuň bu dünýäde nähili rol oýnaýandygyny düşündirýän meseleleriň biridir. Filosofiýa, teologiýa we ylym bu mowzuga dürli taraplardan çemeleşýärler. Şahsy maksatlary tapmak we olara ýetmek adam durmuşyna uly täsir edýär.
 
 Slide: END
-Headers: SUMMARY
-Content: - Life's purpose is a complex and personal concept that varies among individuals and cultures.
-         - By exploring different perspectives and reflecting on our values, we can find meaning and fulfillment in our lives.
-         - Living a purposeful life involves setting goals, embracing challenges, and practicing gratitude.
+```

@@ -1,0 +1,57 @@
+Title:Title: Atomyň gurluşy we häsiýetleri
+
+Slide: 1
+Header: MAZMUUNYŇ SANAWY
+Content: 1. Giriş
+2. Atomyň taryhy we ösüşi
+3. Atomyň gurluşy
+4. Protonlar we neutronlar
+5. Elektronlar we elektron orbitallary
+6. Atomlaryň görnüşleri we izotoplar
+7. Atomlaryň birleşmesi we molekulalar
+8. Atom energiýasy we kwant mehanikasy
+9. Atomyň ulanylyşy we tehnologiýa
+10. Netije
+
+Slide: 2
+Header: GIRIŞ
+Content: Bu bölümde biz atomyň esaslary barada umumy düşünje alarys. Atomlar, ähli maddalaryň düzümini emele getirýän iň kiçi böleklerdir we olaryň gurluşy, häsiýetleri we ulanylyşy örän möhüm maglumatlary öz içine alýar.
+
+Slide: 3
+Header: ATOMYŇ TARYHY WE ÖSÜŞI
+Content: Atom düşünjesi ilkinji gezek Demokrit tarapyndan öňe sürüldi. Soňra, 19-njy asyrda Jon Dalton we beýleki alymlar tarapyndan kämilleşdirildi. 20-nji asyrda Ernest Ruterford we Nils Bor atomyň häzirki zaman modelini döretdiler.
+
+Slide: 4
+Header: ATOMYŇ GURLUŞY
+Content: Atom, üç esasy bölekden durýar: protonlar, neutronlar we elektronlar. Protonlar we neutronlar atomyň ýadrosynda ýerleşýär, elektronlar bolsa ýadro töwereginde orbitallarda aýlanýar.
+
+Slide: 5
+Header: PROTONLAR WE NEUTRONLAR
+Content: Protonlar, göwrümi pozitiw zarýadly böleklerdir, neutronlar bolsa zarýadsyzdyr. Protonlaryň sany atomyň atom nomerini kesgitleýär, neutronlaryň sany bolsa atomyň massasy bilen baglydyr.
+
+Slide: 6
+Header: ELEKTRONLAR WE ELEKTRON ORBITALLARY
+Content: Elektronlar, negatiw zarýadly böleklerdir we ýadro töwereginde belli orbitallarda aýlanýarlar. Elektronlaryň ýerleşişi atomyň himiki häsiýetlerini kesgitleýär.
+
+Slide: 7
+Header: ATOMLARYŇ GÖRNÜŞLERI WE IZOTOPLAR
+Content: Atomlar dürli izotoplara eýe bolup bilerler. Izotoplar, proton sany birmeňzeş, emma neutron sany dürli atomlardyr. Izotoplar atomyň fizik we himiki häsiýetlerine täsir edýär.
+
+Slide: 8
+Header: ATOMLARYŇ BIRLEŞMESI WE MOLEKULALAR
+Content: Atomlar birleşip molekulalary emele getirýärler. Molekulalar, atomlaryň himiki baglar arkaly birleşmegidir. Bu birleşmeler atomlaryň elektron paýlaşmagy ýa-da elektron alyşmagy arkaly bolýar.
+
+Slide: 9
+Header: ATOM ENERGIÝASY WE KWANT MEHANIKASY
+Content: Atom energiýasy we kwant mehanikasy atomyň içindäki energiýa derejesini we elektronlaryň hereketini öwrenýär. Kwant mehanikasy, atomyň häsiýetlerini we hereketlerini düşündirýän teoridir.
+
+Slide: 10
+Header: ATOMYŇ ULANYLYŞY WE TEHNOLOGIÝA
+Content: Atomlar we olaryň energiýasy dürli tehnologiýalarda ulanylýar. Nuklear energiýa, medisina, we material ylymlary atom tehnologiýasynyň käbir ulanylyş ugurlarydyr.
+
+Slide: 11
+Headers: NETIJE
+Content: Bu prezentasiýada biz atomyň taryhy, gurluşy, häsiýetleri we ulanylyşy barada giňişleýin maglumat berdik. Atomlar, ähli maddalaryň düzümini emele getirýän esasy böleklerdir we olaryň öwrenilmegi ylym we tehnologiýa üçin möhüm ähmiýete eýedir.
+
+Slide: END
+```

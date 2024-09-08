@@ -1,0 +1,55 @@
+Title:Tebigaty Goramak
+
+Slide: 1
+Header: TABLE OF CONTENT
+Content: 
+1. Tebigaty Goramak: Giriş
+2. Tebigaty Goramagyň Ähmiýeti
+3. Tebigaty Goramakda Ekologik Düşünje
+4. Tebigaty Goramakda Kanunçylygyň Orny
+5. Tebigaty Goramakda Ýaşlaryň Orny
+6. Tebigaty Goramakda Tehnologiýanyň Roly
+7. Tebigaty Goramakda Ýerli Inisiatiwalar
+8. Tebigaty Goramakda Global Tagallalar
+9. Tebigaty Goramagyň Geljegi
+10. Netije
+
+Slide: 2
+Header: Tebigaty Goramak: Giriş
+Content: Tebigaty goramak, tebigy resurslary we ekologik deňagramlylygy saklamak üçin edilen çäreleriň toplumydyr. Bu çäreler, tebigatyň durnuklylygyny üpjün etmek we geljek nesiller üçin ony gorap saklamak maksadyny göz öňünde tutýar.
+
+Slide: 3
+Header: Tebigaty Goramagyň Ähmiýeti
+Content: Tebigaty goramak, diňe bir tebigatyň gözelligini saklamak bilen çäklenmän, adamzadyň saglygyny we abadançylygyny hem üpjün edýär. Tebigaty goramak, suw, howa we toprak ýaly esasy resurslaryň täsirli ulanylmagyny üpjün edýär.
+
+Slide: 4
+Header: Tebigaty Goramakda Ekologik Düşünje
+Content: Ekologik düşünje, tebigatyň we onuň resurslarynyň durnuklylygyny saklamak üçin zerur bolan bilim we düşünjedir. Bu düşünje, adamlaryň tebigata bolan garaýyşlaryny we hereketlerini üýtgetmek üçin möhümdir.
+
+Slide: 5
+Header: Tebigaty Goramakda Kanunçylygyň Orny
+Content: Tebigaty goramakda kanunçylyk, tebigy resurslaryň goralmagyny we durnukly ulanylmagyny üpjün etmek üçin zerur bolan düzgünleri we kadalary öz içine alýar. Kanunçylyk, ýerli we halkara derejesinde tebigaty goramak üçin möhüm rol oýnaýar.
+
+Slide: 6
+Header: Tebigaty Goramakda Ýaşlaryň Orny
+Content: Tebigaty goramakda ýaşlaryň orny, täze nesilleriň tebigaty goramak bilen baglanyşykly meselelerde habarly bolmagyny we işjeň gatnaşmagyny üpjün etmekdir. Ýaşlar, tebigaty goramakda täze pikirler we inisiatiwalar getirip bilerler.
+
+Slide: 7
+Header: Tebigaty Goramakda Tehnologiýanyň Roly
+Content: Tehnologiýa, tebigaty goramakda möhüm rol oýnaýar. Täze tehnologiýalar, tebigy resurslaryň täsirli ulanylmagyny we zyňyndylaryň azaldylmagyny üpjün edýär. Şeýle hem, tehnologiýa tebigatyň ýagdaýyny gözegçilikde saklamak üçin ulanylýar.
+
+Slide: 8
+Header: Tebigaty Goramakda Ýerli Inisiatiwalar
+Content: Tebigaty goramakda ýerli inisiatiwalar, jemgyýetleriň tebigaty goramak üçin öz tagallalaryny birleşdirmegini öz içine alýar. Bu inisiatiwalar, ýerli şertlere laýyk çözgütleri we çäreleri öz içine alyp biler.
+
+Slide: 9
+Header: Tebigaty Goramakda Global Tagallalar
+Content: Tebigaty goramakda global tagallalar, halkara guramalar we döwletler tarapyndan alnyp barylýan çäreleri öz içine alýar. Bu tagallalar, global derejede tebigaty goramak üçin hyzmatdaşlygy we bilelikdäki hereketleri talap edýär.
+
+Slide: 10
+Header: Tebigaty Goramagyň Geljegi
+Content: Tebigaty goramagyň geljegi, häzirki we geljek nesilleriň tebigaty goramak boýunça alyp barýan tagallalaryna baglydyr. Durnukly ösüş we tebigaty goramak üçin ähliumumy tagallalar dowam etdirilmelidir.
+
+Slide: 11
+Header: Netije
+Content: Tebigaty goramak, ähliumumy we ýeke-täk tagallalary talap edýän möhüm meseleleriň biridir. Tebigatyň durnuklylygyny üpjün etmek we geljek nesiller üçin ony gorap saklamak, biziň hemmämiziň borjumyzdyr. 

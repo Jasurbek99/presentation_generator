@@ -1,0 +1,40 @@
+Title:Türkmenistanyň Ahalteke Atlary
+
+Slide: 1
+Header: MÜNDERICLERIŇ SANAWY
+Content: 
+1. Ahalteke Atlarynyň Taryhy
+2. Ahalteke Atlarynyň Hususyýetleri
+3. Ahalteke Atlarynyň Ýetişdirilmegi
+4. Ahalteke Atlarynyň Sportdaky Ulgamy
+5. Ahalteke Atlarynyň Guramalary
+6. Ahalteke Atlarynyň Gelejegi
+7. Ýüzlenme
+
+Slide: 2
+Header: AHALTEKE ATLARYNYŇ TARYHY
+Content: Ahalteke aty, Türkmenistanyň milli baýdaklygydyr we ol türkmenler tarapyndan köp asyrlar boyunça saklanyp gelipdir. Olaryň taryhy eýranymyzdan öňki döwürlere çenli ýetýär. 
+
+Slide: 3
+Header: AHALTEKE ATLARYNYŇ HUSUSYÝETLERI
+Content: Ahalteke aty, desgalyp ýetişen, atlaryň ähli gutusynda höweslendiriji, ýokary hereketli, hüjüňli we saýlawlygy bilen bellenendir. 
+
+Slide: 4
+Header: AHALTEKE ATLARYNYŇ ÝETIŞDIRILMEGI
+Content: Ahalteke atlar, Türkmenistanyň çölleriň agyr şertlerinde ýetişdirilýär. Olar üçin özüne mahsus diyet we terbiýe programmalary amala aşyrylýar.
+
+Slide: 5
+Header: AHALTEKE ATLARYNYŇ SPORTDAKY ULGAMY
+Content: Ahalteke atlar, atly sportyň ähli görnüşlerinde, ýagny at gazandyrmakda, ýolbaşçylykda we atlaryň ýolbaşçylygynda ulanylypdyr.
+
+Slide: 6
+Header: AHALTEKE ATLARYNYŇ GURAMALARY
+Content: Ahalteke atlar, ýerine ýetirilen işleri we sportda gazananlary bilen Türkmenistanyň atçylyk sungatynyň mukaddesliklerini saklaýarlar.
+
+Slide: 7
+Header: AHALTEKE ATLARYNYŇ GELEJEGI
+Content: Türkmenistanyň hökümeti we halky, Ahalteke atlarynyň iri çäklendirmesini dowam etdirmäge we olaryň ýerli we halkara derejede tanalmagyny giňeltmäge bagyşlanypdyr.
+
+Slide: 8
+Header: ÝÜZLENME
+Content: Ahalteke atlar, Türkmenistanyň milli bayragydyr. Olar dünýäde atlaryň in iri ýetişdirijilerinden biri bolup durýarlar. Olar türkmen halkynyň ruhy, olaryň sungatynyň we medeniýetiniň simwolydyr.

@@ -1,0 +1,78 @@
+Title:Title: Internet Hyzmatlardan Peýdalanmagyň Medeniýeti
+
+Slide: 1
+Header: MAZMUNY
+Content: 1. Giriş
+2. Internet hyzmatlary näme?
+3. Internetiň taryhy
+4. Internetde howpsuzlyk
+5. Internetde etikanyň ähmiýeti
+6. Elektron poçta hyzmatlary
+7. Sosial media medeniýeti
+8. Onlaýn okuw we bilim portallary
+9. Internet arkaly söwda medeniýeti
+10. Internetde iş etikasy
+11. Internetde maglumatlaryň gizlinligi
+12. Internet hyzmatlarynyň peýdalary
+13. Internetde wagtyň netijeli ulanylyşy
+14. Netije
+15. Jemleýji söz
+
+Slide: 2
+Header: Giriş
+Content: Internet hyzmatlardan peýdalanmagyň medeniýeti şu günki gün jemgyýetde örän möhüm meseleleriň biri bolup durýar. Bu prezentasiýada internetiň taryhyndan başlap, onuň hyzmatlarynyň dürli ugurlarda nähili ulanylýandygy we bu hyzmatlardan medeniýetli peýdalanmagyň ähmiýeti ara alnyp maslahatlaşylýar.
+
+Slide: 3
+Header: Internet hyzmatlary näme?
+Content: Internet hyzmatlary, internet arkaly hödürlenýän dürli hyzmatlary öz içine alýar. Mysal üçin, elektron poçta, sosial media, maglumat gözleg motory, onlaýn söwda, we onlaýn okuw hyzmatlary.
+
+Slide: 4
+Header: Internetiň taryhy
+Content: Internetiň taryhy 1960-njy ýyllaryň başyna baryp ýetýär. Ilkibaşda harby maksatlar üçin döredilen internet, soňra akademiki we jemgyýetçilik maksatlar üçin giňden ulanylmaga başlandy.
+
+Slide: 5
+Header: Internetde howpsuzlyk
+Content: Internetde howpsuzlyk, şahsy maglumatlaryň goralmagy, wiruslardan we hakerlerden goraglylyk ýaly meseleleri öz içine alýar. Gürrüňi edilýän meseleler barada düşünjäňiz bolmaly we degişli howpsuzlyk çärelerini görmeli.
+
+Slide: 6
+Header: Internetde etikanyň ähmiýeti
+Content: Internetde etika, beýleki ulanyjylara hormat goýmak, ýalan maglumat ýaýratmazlyk, we onlaýn giňişlikde medeniýetli hereket etmek ýaly meseleleri öz içine alýar.
+
+Slide: 7
+Header: Elektron poçta hyzmatlary
+Content: Elektron poçta hyzmatlary, hat alyşmak üçin ulanylýan iň köp ýaýran internet hyzmatlarynyň biridir. Bu hyzmatdan peýdalananyňyzda medeniýetli we düzgünli hereket etmek möhümdir.
+
+Slide: 8
+Header: Sosial media medeniýeti
+Content: Sosial media, adamlar bilen aragatnaşyk saklamak we maglumat paýlaşmak üçin möhüm bir gurallaryň biridir. Bu platformalarda medeniýetli we jogapkärçilikli hereket etmek möhümdir.
+
+Slide: 9
+Header: Onlaýn okuw we bilim portallary
+Content: Onlaýn okuw we bilim portallary, internet arkaly bilim almak üçin ulanylýan hyzmatlardyr. Bu hyzmatlardan peýdalananyňyzda, akademiki etika we düzgünlere eýermeli.
+
+Slide: 10
+Header: Internet arkaly söwda medeniýeti
+Content: Internet arkaly söwda, onlaýn dükanlar we bazarlar arkaly amala aşyrylýar. Bu hyzmatlardan peýdalananyňyzda, ygtybarly saýtlary saýlamak we howpsuz töleg usullaryny ulanmaga üns bermeli.
+
+Slide: 11
+Header: Internetde iş etikasy
+Content: Internetde iş etikasy, iş ýerinde interneti netijeli we medeniýetli ulanylmagyny üpjün edýär. Iş wagtynda şahsy işlerden gaça durmaly we iş bilen baglanyşykly internet hyzmatlaryny ulanmaly.
+
+Slide: 12
+Header: Internetde maglumatlaryň gizlinligi
+Content: Internetde maglumatlaryň gizlinligi, şahsy maglumatlaryň başgalaryň eline geçmeginiň öňüni almak üçin möhüm bir meseledir. Gürrüňi edilýän meseleler barada düşünje bolmaly we degişli howpsuzlyk çärelerini görmeli.
+
+Slide: 13
+Header: Internet hyzmatlarynyň peýdalary
+Content: Internet hyzmatlarynyň köp sanly peýdalary bar. Bu hyzmatlar arkaly maglumatlara çalt ýetmek, aragatnaşyk saklamak, bilim almak we söwda etmek ýaly ugurlarda uly ýeňillikler gazanylýar.
+
+Slide: 14
+Header: Internetde wagtyň netijeli ulanylyşy
+Content: Internetde wagtyň netijeli ulanylyşy, internetiň peýdaly taraplaryna ünsi çekmek we wagt dolandyryş usullaryny öwrenmek bilen baglanyşyklydyr. Wagty netijeli ulanyp, internetiň peýdaly taraplaryna ünsi çekmeli.
+
+Slide: 15
+Header: Netije
+Content: Internet hyzmatlardan medeniýetli peýdalanmak, şahsy we jemgyýetçilik derejesinde möhüm ähmiýete eýedir. Howpsuzlyk, etika, gizlinlik we wagtyň netijeli ulanylyşy ýaly meseleler, interneti medeniýetli we jogapkärçilikli ulanmaga ýardam edýär.
+
+Slide: END
+```

@@ -1,0 +1,86 @@
+Title:Title: Sesden Tekst Öwürmek Programmasyny Döretmegiň Ädimleri
+
+Slide: 1
+Header: MAZMUNY
+Content: 
+1. Giriş
+2. Sesden Tekst Öwürmek Näme?
+3. Taslamanyň Maksady
+4. Gerekli Tehnologiýalar
+5. Ädim 1: Maglumatlary Ýygnamak
+6. Ädim 2: Maglumatlary Gaýtadan İşlemek
+7. Ädim 3: Model Döretmek
+8. Ädim 4: Modeli Okuw
+9. Ädim 5: Modeli Synagdan Geçirmek
+10. Ädim 6: Modeli Optimizasiýa Etmek
+11. Ädim 7: Programmany Döretmek
+12. Ädim 8: Programmany Synagdan Geçirmek
+13. Ädim 9: Programmany Kämilleşdirmek
+14. Ädim 10: Netijeleri Barlamak
+15. Jemleýji Netije
+
+Slide: 2
+Header: GIRIŞ
+Content: Bu prezentasiýada sesden tekst öwürmek programmasyny döretmegiň ädimleri barada gürrüň ederis. Bu prosesde ulanylýan tehnologik çözgütler we metodlar barada giňişleýin maglumat berler.
+
+Slide: 3
+Header: SESDEN TEKST ÖWÜRMEK NÄME?
+Content: Sesden tekst öwürmek, adamyň aýdýan sözlerini kompýuter arkaly tekst görnüşine geçirýän tehnologiýadyr. Bu tehnologiýa, dürli ugurlarda, şol sanda awtomatlaşdyrylan ýazuw, sesli gözleg, we beýleki köp sanly programmada ulanylýar.
+
+Slide: 4
+Header: TASLAMANYŇ MAKSADY
+Content: Bu taslamanyň esasy maksady, sesden tekst öwürmek programmasyny döretmek we ony dürli şertlerde synagdan geçirmekdir. Bu maksat bilen, dürli maglumatlar ýygnalyp, gaýtadan işlenip we model öwredilip kämilleşdiriler.
+
+Slide: 5
+Header: GEREKLI TEHNOLOGIÝALAR
+Content: Sesden tekst öwürmek üçin gerekli tehnologik serişdeler:
+- Ýokary hilli mikrofon we ses ýazgy enjamy
+- Maglumatlary gaýtadan işlemek üçin ýörite programmalar
+- Maşyn öwrenme we emeli aň tehnologiýalary
+
+Slide: 6
+Header: ÄDIM 1: MAGLUMATLARY ÝYGNAŇ
+Content: Ilki bilen, ses ýazgylaryny toplamak gerek. Bu maksat bilen dürli çeşmelerden, şol sanda radiolardan, gepleşiklerden we beýleki sesli maglumatlardan peýdalanyp bolýar.
+
+Slide: 7
+Header: ÄDIM 2: MAGLUMATLARY GAÝTADAN IŞLEMEK
+Content: Toplanan ses maglumatlary gaýtadan işlenmeli. Bu prosesde sesleriň arassalanmagy, ses derejesiniň sazlanmagy we beýleki gaýtadan işlemek işleri ýerine ýetirilýär.
+
+Slide: 8
+Header: ÄDIM 3: MODEL DÖRETMEK
+Content: Sesden tekst öwürmek üçin ýörite model döretmek gerek. Bu model, ses ýazgylaryny analiz edip, olary tekst görnüşine geçirip biler.
+
+Slide: 9
+Header: ÄDIM 4: MODELI OKUW
+Content: Döredilen modeli öwretmek üçin uly möçberde ses we tekst maglumatlary gerek. Bu maglumatlar modeli öwretmek üçin ulanylýar.
+
+Slide: 10
+Header: ÄDIM 5: MODELI SYNAGDAN GEÇIRMEK
+Content: Öwrenen modeli synagdan geçirmek bilen onuň netijeliligini barlamak gerek. Bu maksat bilen dürli şertlerde we dürli ses ýazgylary bilen synag edilýär.
+
+Slide: 11
+Header: ÄDIM 6: MODELI OPTIMIZASIÝA ETMEK
+Content: Synaglaryň netijelerine görä modeli optimizasiýa etmek gerek. Bu maksat bilen modeliň netijeliligini ýokarlandyrýan üýtgeşmeler girizilýär.
+
+Slide: 12
+Header: ÄDIM 7: PROGRAMMANY DÖRETMEK
+Content: Modeli ulanyp, sesden tekst öwürmek programmasyny döretmek gerek. Bu maksat bilen ýörite programmalaşdyryş gurallary we diller ulanylýar.
+
+Slide: 13
+Header: ÄDIM 8: PROGRAMMANY SYNAGDAN GEÇIRMEK
+Content: Döredilen programmany synagdan geçirmek gerek. Bu maksat bilen dürli ses ýazgylary we şertler ulanylyp, programmanyň netijeliligi barlanýar.
+
+Slide: 14
+Header: ÄDIM 9: PROGRAMMANY KÄMILLEŞDIRMEK
+Content: Synaglaryň netijelerine görä, programmany kämilleşdirmek gerek. Bu maksat bilen programmanyň netijeliligini ýokarlandyrýan üýtgeşmeler girizilýär.
+
+Slide: 15
+Header: ÄDIM 10: NETIJELERI BARLAMAK
+Content: Programmanyň soňky görnüşini barlamak gerek. Bu maksat bilen dürli şertlerde we ses ýazgylarynda programmanyň netijeliligi barlanýar.
+
+Slide: 16
+Headers: JEMLEÝJI NETIJE
+Content: Bu prezentasiýada, sesden tekst öwürmek programmasyny döretmegiň ädimleri barada maglumat berildi. Bu prosesde ulanylýan tehnologik çözgütler we metodlar barada giňişleýin düşündirildi. Bu bilimler bilen, siz hem öz taslamalaryňyzda sesden tekst öwürmek tehnologiýasyny ulanyp bilersiňiz.
+
+Slide: END
+```

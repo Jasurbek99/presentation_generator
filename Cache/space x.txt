@@ -1,0 +1,46 @@
+Title:Title: SpaceX: Geljegiň Kosmos Gözlegleri
+
+Slide: 1
+Header: MAZMUNYŇ SANAWY
+Content: 
+1. SpaceX: Giriş we Taryh
+2. Maksatnamalar we Taslamalar
+3. Tehnologiýa we Täzelikler
+4. SpaceX-iň Geljegi
+5. Jemleýji Netije
+
+Slide: 2
+Header: SpaceX: Giriş we Taryh
+Content: 
+SpaceX, Elon Musk tarapyndan 2002-nji ýylda esaslandyryldy. Şirketiň maksady kosmos syýahatyny elýeterli we ygtybarly etmekdir. SpaceX, ilkinji hususy kompaniýa bolup, Halkara Kosmos Stansiýasyna (ISS) ýük daşamak üçin Falcon 1, Falcon 9 we Dragon kapsulasyny döretdi.
+
+Slide: 3
+Header: Maksatnamalar we Taslamalar
+Content: 
+SpaceX birnäçe möhüm maksatnamany we taslamany alyp barýar:
+- Falcon 9: köp gezek ulanylýan raketa ulgamy.
+- Dragon: ýük we adam daşamak üçin niýetlenen kapsula.
+- Starship: Marsa we beýleki planetalara syýahat üçin ulanylýan kosmos gämisi.
+- Starlink: Dünýäniň dürli künjeklerine internet hyzmatyny bermek üçin emeli hemralar ulgamy.
+
+Slide: 4
+Header: Tehnologiýa we Täzelikler
+Content: 
+SpaceX öz tehnologiýasy we täzelikleri bilen öňdebaryjy bolup durýar:
+- Köp gezek ulanylýan raketalar: Falcon 9 raketalary birnäçe gezek ulanylyp bilner, bu bolsa çykdajylary azaldýar.
+- Dragon kapsulasy: Adam we ýük daşamak üçin amatly we ygtybarly.
+- Starship: Geljekde Mars we başga planetalara syýahat etmek üçin niýetlenen kosmos gämisi.
+
+Slide: 5
+Header: SpaceX-iň Geljegi
+Content: 
+SpaceX geljekde täze üstünliklere garaşýar:
+- Marsa ilkinji adamly ekspedisiýa.
+- Starlink arkaly global internet hyzmatlaryny giňeltmek.
+- SpaceX-in tehnologiýasyny we täzeliklerini ösdürmek arkaly kosmos syýahatyny has elýeterli etmek.
+
+Slide: 6
+Header: JEMLEÝJI NETIJE
+Content: 
+SpaceX kosmos gözleglerinde täze eýýamyň başlangyjyny alamatlandyrýar. Kompaniýanyň maksatnamalary we tehnologiýasy kosmos syýahatyny has elýeterli we ygtybarly etmekde uly ädimlerdir. Geljekde SpaceX-iň täze üstünliklere ýetjekdigine ynanýarys.
+```

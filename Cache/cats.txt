@@ -1,0 +1,23 @@
+Title:Title: All About Cats
+
+Slide: 1
+Header: TABLE OF CONTENT
+Content: 1. Introduction to Cats
+2. Types of Cats
+3. Cat Behavior
+4. Fun Facts About Cats
+
+Slide: 2
+Header: Introduction to Cats
+Content: Cats are popular pets known for their independent nature and playful personalities. They have been companions to humans for thousands of years.
+
+Slide: 3
+Header: Types of Cats
+Content: There are various breeds of cats, each with unique characteristics such as size, coat pattern, and temperament. Some popular breeds include Siamese, Persian, and Maine Coon.
+
+Slide: 4
+Header: Cat Behavior
+Content: Cats exhibit a range of behaviors such as hunting, grooming, and socializing. Understanding cat behavior is essential for providing proper care and creating a harmonious relationship with your feline friend.
+
+Slide: END
+```

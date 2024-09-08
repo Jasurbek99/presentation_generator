@@ -1,0 +1,37 @@
+Title:Title: Güjük
+
+Slide: 1
+Header: MAZMUW TABLISASY
+Content: 
+1. Güjük barada umumy maglumat
+2. Güjügiň görnüşleri we aýratynlyklary
+3. Güjügiň ähmiýeti we roly
+4. Güjügiň idegi we terbiýesi
+5. Güjük barada gyzykly faktlar
+
+Slide: 2
+Header: Güjük barada umumy maglumat
+Content: Güjük, köplenç öý haýwanlary hökmünde saklanýan, adamlar bilen ýakyn gatnaşygy bolan haýwanlaryň biridir. Olaryň dürli görnüşleri we ululyklary bardyr. Güjükler çalt öwrenýän, duýgur we ynsan bilen dostlukly gatnaşykda bolmagy bilen tanalýarlar.
+
+Slide: 3
+Header: Güjügiň görnüşleri we aýratynlyklary
+Content: Güjükleriň dünýäde birnäçe görnüşi bar. Olaryň her biriniň özboluşly aýratynlyklary we häsiýetleri bardyr. Mysal üçin, Alabaý, nemes çopan iti, labrador retriwer we başgalar. Güjükleriň görnüşleri olaryň beden gurluşy, reňki we häsiýeti boýunça tapawutlanýar.
+
+Slide: 4
+Header: Güjügiň ähmiýeti we roly
+Content: Güjükler diňe bir öý haýwanlary hökmünde däl, eýsem kömekçi haýwanlar, gözegçilik we howpsuzlyk boýunça hyzmatda-da ulanylýar. Olaryň adama ýakynlygy we ýardam bermek ukyby, psihologik we emosional goldaw bermekde uly ähmiýete eýedir.
+
+Slide: 5
+Header: Güjügiň idegi we terbiýesi
+Content: Güjükleriň sagdyn we bagtly bolmagy üçin ideg we terbiýe möhümdir. Olara dogry iýmitlenme, saglyk barlaglary, hereket we oýun şertleri döredilmelidir. Güjükleri terbiýelemek, olaryň sosializasiýasy we düzgün-nyzam öwretmek üçin zerurdyr.
+
+Slide: 6
+Header: Güjük barada gyzykly faktlar
+Content: Güjükler barada birnäçe gyzykly faktlar bar. Mysal üçin, olaryň ys alyş ukyby adamlaryňkydan 40 esse güýçlüdir. Güjükler adam ýüzlerinden emosional ýagdaýy tanap bilýärler. Şeýle hem, olaryň gulaklary 18-den gowrak dürli hereket edip bilýär.
+
+Slide: SUMMARY
+Header: Gysgaça mazmun
+Content: Bu prezentasiýada güjükler barada umumy maglumat, olaryň görnüşleri, ähmiýeti, idegi we gyzykly faktlar barada gürrüň etdik. Güjükleriň adamlar bilen gatnaşygy we olaryň durmuşdaky roly barada düşünje aldyk.
+
+Slide: END
+```

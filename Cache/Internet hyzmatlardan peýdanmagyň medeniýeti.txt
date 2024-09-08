@@ -1,0 +1,82 @@
+Title:Title: Internet Hyzmatlardan Peýdalanmagyň Medeniýeti
+
+Slide: 1
+Header: TABLE OF CONTENT
+Content: 1. Giriş
+2. Internet hyzmatlarynyň taryhy
+3. Internet hyzmatlarynyň görnüşleri
+4. Internet ulanyş medeniýeti
+5. Sosial media ulanyş medeniýeti
+6. E-poçta we habarlaşma medeniýeti
+7. Howpsuzlyk we şahsy maglumatlary goramak
+8. Internetde etiket we ahlak
+9. Internetde bilim almak
+10. Internetde işlemek we iş meýdançalary
+11. Internetde söwda we maliýe hyzmatlar
+12. Internetde saglyk we sport hyzmatlar
+13. Internet ulanyş meseleleri we çözgütler
+14. Geljekde internet hyzmatlary
+15. Netije we maslahatlar
+
+Slide: 2
+Header: Giriş
+Content: Bu prezentasiýada biz internet hyzmatlardan peýdalanmagyň medeniýeti barada gürrüň ederis. Internetiň taryhy, görnüşleri we ulanyş medeniýeti bilen tanyşarys. Şeýle hem, internetde etiket, howpsuzlyk we şahsy maglumatlary goramak barada gürrüň ederis.
+
+Slide: 3
+Header: Internet hyzmatlarynyň taryhy
+Content: Internetiň taryhy 1960-njy ýyllara barýar. Ilki başda ARPANET ady bilen tanalýan bu ulgam, häzirki döwürde dünýäniň iň uly maglumat çeşmesine öwrüldi. Internetiň ösüşi we giňden ulanylmagy, tehnologiýanyň ösmegi bilen dowam etdi.
+
+Slide: 4
+Header: Internet hyzmatlarynyň görnüşleri
+Content: Internet hyzmatlary dürli görnüşlerde bolup biler. Olaryň hatarynda web saýtlary, sosial media platformalary, e-poçta hyzmatlary, onlaýn söwda, elektron bank hyzmatlary, bilim we saglyk hyzmatlary bar.
+
+Slide: 5
+Header: Internet ulanyş medeniýeti
+Content: Internet ulanyş medeniýeti, internetiň dogry we netijeli ulanylmagyny aňladýar. Bu medeniýet, internetde dogry maglumatlary tapmak, ony paýlaşmak, we howpsuz ulanyş endiklerini öz içine alýar.
+
+Slide: 6
+Header: Sosial media ulanyş medeniýeti
+Content: Sosial media platformalary, häzirki döwürde iň köp ulanylýan internet hyzmatlaryndan biridir. Dogry maglumat paýlaşmak, beýlekilere hormat goýmak we şahsy maglumatlary goramak sosial media ulanyş medeniýetiniň esasy prinsipleridir.
+
+Slide: 7
+Header: E-poçta we habarlaşma medeniýeti
+Content: E-poçta we habarlaşma hyzmatlary, iş we şahsy durmuşda giňden ulanylýar. E-poçta ýazanyňyzda, resmi we hormat goýujy dili ulanmak, spam we galp habarlardan gaça durmak möhümdir.
+
+Slide: 8
+Header: Howpsuzlyk we şahsy maglumatlary goramak
+Content: Internetde howpsuzlyk we şahsy maglumatlary goramak, internet ulanyjylarynyň esasy borçlaryndandyr. Güýçli parollar ulanmak, şahsy maglumatlary paýlaşmazlyk we ygtybarly web saýtlary ulanyş, howpsuzlygyň esasy ädimleridir.
+
+Slide: 9
+Header: Internetde etiket we ahlak
+Content: Internetde etiket we ahlak, beýlekilere hormat goýmak we dogry maglumat paýlaşmak bilen baglanyşyklydyr. Internetde ýazýan we paýlaşýan maglumatlaryň dogrulygyny we ahlaklylygyny göz öňünde tutmak möhümdir.
+
+Slide: 10
+Header: Internetde bilim almak
+Content: Internet, bilim almak üçin giň mümkinçilikler berýär. Onlaýn kurslar, wideo sapaklar we elektron kitaplar, internetiň bilim almakda netijeli ulanylmagyna ýol açýar.
+
+Slide: 11
+Header: Internetde işlemek we iş meýdançalary
+Content: Internet, işlemek we iş meýdançalaryny giňeltmek üçin uly mümkinçilikler berýär. Onlaýn iş platformalary, uzakdan işlemek we iş mümkinçiliklerini giňeltmek üçin peýdalydyr.
+
+Slide: 12
+Header: Internetde söwda we maliýe hyzmatlar
+Content: Internetde söwda we maliýe hyzmatlary, häzirki döwürde giňden ulanylýar. Onlaýn bank hyzmatlary, elektron töleg ulgamlary we onlaýn dükanlar, internetiň maliýe ulgamyndaky mümkinçiliklerini görkezýär.
+
+Slide: 13
+Header: Internetde saglyk we sport hyzmatlar
+Content: Internet, saglyk we sport hyzmatlarynda hem giňden ulanylýar. Onlaýn saglyk maslahatlary, telemedisin, we sport programmalary, internetiň bu ugurlarda nähili peýdaly bolup biljekdigini görkezýär.
+
+Slide: 14
+Header: Internet ulanyş meseleleri we çözgütler
+Content: Internet ulanyş meseleleri, internetiň dogry ulanylmazlygy, howpsuzlyk meseleleri we maglumatlaryň galp ulanylmagyny öz içine alýar. Bu meseleleriň çözgütleri, internet ulanyş medeniýetini ösdürmekden geçýär.
+
+Slide: 15
+Header: Geljekde internet hyzmatlary
+Content: Geljekde internet hyzmatlary has-da ösüp, täze mümkinçilikleri we hyzmatlary öz içine alar. Tehnologiýanyň ösmegi bilen, internet hyzmatlarynyň hem giňden ulanylmagy dowam eder.
+
+Slide: X
+Header: Netije we maslahatlar
+Content: Internet hyzmatlardan peýdalanmagyň medeniýeti, internetiň dogry we netijeli ulanylmagyny üpjün edýär. Howpsuzlyk, şahsy maglumatlary goramak we dogry maglumat paýlaşmak, internet ulanyş medeniýetiniň esasy prinsiplidir. Talyp we mugallymlar, internetiň mümkinçiliklerinden doly peýdalanyp, ony dogry ulanyp bilmelidirler.
+
+Slide: END
+```

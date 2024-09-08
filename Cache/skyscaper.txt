@@ -1,0 +1,34 @@
+Title:Slide: 1
+Header: TABLE OF CONTENT
+Content: 1. Introduction to Skyscrapers
+2. History of Skyscrapers
+3. Design and Architecture
+4. Construction of Skyscrapers
+5. Iconic Skyscrapers Around the World
+6. Summary
+
+Slide: 2
+Header: Introduction to Skyscrapers
+Content: Skyscrapers are tall, continuously habitable buildings that have become symbols of modern urbanization and architectural innovation.
+
+Slide: 3
+Header: History of Skyscrapers
+Content: Skyscrapers have a rich history dating back to the late 19th century, with the Home Insurance Building in Chicago often credited as the first skyscraper.
+
+Slide: 4
+Header: Design and Architecture
+Content: Skyscrapers feature unique designs and architectural elements, such as steel frames, curtain walls, and innovative structural systems.
+
+Slide: 5
+Header: Construction of Skyscrapers
+Content: Building skyscrapers requires careful planning, advanced engineering techniques, and the use of specialized construction equipment to ensure safety and stability.
+
+Slide: 6
+Header: Iconic Skyscrapers Around the World
+Content: From the Burj Khalifa in Dubai to the Empire State Building in New York City, iconic skyscrapers showcase the ingenuity and creativity of architects and engineers.
+
+Slide: 7
+Header: Summary
+Content: Skyscrapers are marvels of modern engineering and design, shaping the skylines of cities around the world and pushing the boundaries of what is possible in construction.
+
+Slide: END

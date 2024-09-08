@@ -1,0 +1,39 @@
+Title:Sergi Taýýarlamak
+
+Slide: 1
+Header: MÜNDERICLER
+Content: 1. Serginin Meýilnamasy
+2. Serginin Düzümleri
+3. Serginin Dizayny
+4. Serginin Taýýarlanmagy
+5. Serginin Açylyşy
+6. Serginin Ýerine Ýetirilmegi
+7. Ygtyýarnamalar we Duýduryşlar
+
+Slide: 2
+Header: Serginin Meýilnamasy
+Content: Bu bölegiň mazmuny sergiň taýýarlanmagynyň umumy maksady, serginde görkeziljek eserleriň sanawy we olaryň özara gatnaşyklary barada.
+
+Slide: 3
+Header: Serginin Düzümleri
+Content: Serginin düzümleriniň we taýýarlanmagynyň tehniki jikmeleriniň we prosedural taktikalarynyň düşündirişi.
+
+Slide: 4
+Header: Serginin Dizayny
+Content: Serginin görnüşi, renki we düzümi, sergilenen eserleriň arasyndaky gatnaşyk we harmoniýanyň düşündirişi.
+
+Slide: 5
+Header: Serginin Taýýarlanmagy
+Content: Serginin düzümini taýýarlamak, eserleriň ýerleşdirilmegi, serginiň açylyşy üçin gerekli tayýarlyklaryň görkezilmegi.
+
+Slide: 6
+Header: Serginin Ýerine Ýetirilmegi
+Content: Serginiň ýerine ýetirilýän prosedurasy, eserleriň ýerleşdirilmegi we serginiň nädip yzyna alnajagy barada aýratyn maglumatlar.
+
+Slide: 7
+Header: Ygtyýarnamalar we Duýduryşlar
+Content: Sergiň taýýarlanmagy we ýerine ýetirilmegi bilen bagly ygtyýarnamalar we duýduryşlar. Bu bölegiň mazmuny, sergiň taýýarlanmagy we ýerine ýetirilmegi prosesinde dikkat etmeli bolan nokatlar barada.
+
+Slide: END
+Headers: DÜZGÜNLER
+Content: Bu taýýarlamak, sergi taýýarlamagynyň esasy nokatlaryny aýdyp berýär. Serginiň taýýarlanmagy we ýerine ýetirilmegi prosesinde dikkat etmeli bolan esasy ygtyýarnamalar we duýduryşlar aýratynla düşündirildi. Bu taýýarlamak, sergi taýýarlamagy öwrenmek isleýän her kim uçin peýdaly bolup biler.

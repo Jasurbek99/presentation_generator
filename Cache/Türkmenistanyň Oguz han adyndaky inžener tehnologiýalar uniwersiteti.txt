@@ -1,61 +1,50 @@
-Title:```
-Title: Türkmenistanyň Oguz han adyndaky inžener tehnologiýalar uniwersiteti
+Title:Title: Türkmenistanyň Oguz han adyndaky inžener tehnologiýalar uniwersiteti
 
 Slide: 1
-Header: MAZMUNY
-Content: 1. Giriş
-2. Uniwersitetiň taryhy
-3. Fakultetler we bölümler
-4. Mugallymlar we işgärler
-5. Talyp durmuşy
-6. Tehnologik enjamlar we mümkinçilikler
-7. Halkara hyzmatdaşlyk
-8. Okuw meýilnamasy
-9. Tejribä esaslanýan okuw
-10. Netije
+Header: TABLE OF CONTENT
+Content: 
+1. Giriş we Uniwersitetiň Taryhy
+2. Fakultetler we Bölümler
+3. Okuw Maksatnamalary
+4. Tehnologiki Innowasiýalar
+5. Nanotehnologiýa, Biologiýa, Genetika
+6. Mugallymlar we Talyplar üçin Mümkinçilikler
+7. Netije
 
 Slide: 2
-Header: GIRIŞ
-Content: Türkmenistanyň Oguz han adyndaky inžener tehnologiýalar uniwersitetine hoş geldiňiz! Bu uniwersitet inženerçilik we tehnologiýa ugurlarynda ýokary hilli bilim bermäge gönükdirilendir.
+Header: Giriş we Uniwersitetiň Taryhy
+Content: 
+Türkmenistanyň Oguz han adyndaky inžener tehnologiýalar uniwersiteti 2016-njy ýylda döredildi. Uniwersitetiň esasy maksady, talyplara ýokary hilli bilim bermek we olary häzirki zaman tehnologiýalary bilen tanyşdyrmakdyr.
 
 Slide: 3
-Header: UNIWERSTITIŇ TARYHY
-Content: Oguz han adyndaky inžener tehnologiýalar uniwersiteti 2016-njy ýylda döredildi we ol Türkmenistanda inženerçilik boýunça öňdebaryjy okuw jaýlarynyň biridir.
+Header: Fakultetler we Bölümler
+Content: 
+Uniwersitetde dürli fakultetler we bölümler bar. Olar inženerçilik, informatika, elektronika, hem-de beýleki tehnologiýa ugurlary boýunça bilim bermäge gönükdirilendir.
 
 Slide: 4
-Header: FAKULTETLER WE BÖLÜMLER
-Content: Uniwersitetde dürli ugurlar boýunça fakultetler we bölümler bar: Elektrotehnika, Informatika, Mehanika, Himiýa inženerligi we başgalar.
+Header: Okuw Maksatnamalary
+Content: 
+Okuw maksatnamalary halkara standartlaryna laýyklykda düzülendir. Talyplar teoriýa we amaly bilimleri deň derejede öwrenýärler. Okuw maksatnamalary, öz içine dürli inženerçilik we tehnologiýa derslerini alýar.
 
 Slide: 5
-Header: MUGALLYMLAR WE IŞGÄRLER
-Content: Uniwersitetde ýokary derejeli we tejribeli mugallymlar hem-de ylmy işgärler işleýärler. Olar talyplara ýokary hilli bilim bermek üçin ähli tagallalary edýärler.
+Header: Tehnologiki Innowasiýalar
+Content: 
+Uniwersitetde häzirki zaman tehnologiki enjamlary we laboratoriýalary bar. Talyplar we mugallymlar bu enjamlary ulanyp, täze açyşlary we barlaglary geçirýärler. Bu bolsa okuw prosesiniň has täsirli bolmagyny üpjün edýär.
 
 Slide: 6
-Header: TALYP DURMUŞY
-Content: Talyp durmuşynyň baý we köpugurlylygy bilen tapawutlanýar. Sport, medeniýet, we jemgyýetçilik çäreleri talyplaryň durmuşyny baýlaşdyrýar.
+Header: Nanotehnologiýa, Biologiýa, Genetika
+Content: 
+Uniwersitetde nanotehnologiýa, biologiýa we genetika ýaly ugurlar boýunça aýratyn dersler we barlaglar geçirilýär. Bu ugurlar boýunça talyplar döwrebap bilim alyp, täze tehnologiýalary öwrenýärler.
 
 Slide: 7
-Header: TEHNOLOGIK ENJAMLAR WE MÜMKINÇILIKLER
-Content: Uniwersitetiň döwrebap labaratoriýalary, tehnologik enjamlary we kompýuter merkezleri bar. Bu ýerde talyplar iň täze tehnologiýalar bilen işleşip bilýärler.
+Header: Mugallymlar we Talyplar üçin Mümkinçilikler
+Content: 
+Uniwersitetde mugallymlar we talyplar üçin dürli mümkinçilikler bar. Olar halkara konferensiýalara, seminar we okuw maslahatlaryna gatnaşyp bilýärler. Şeýle hem, uniwersitetde dürli sport we medeni çäreler geçirilýär.
 
 Slide: 8
-Header: HALKARA HYZMATDAŞLYK
-Content: Oguz han adyndaky inžener tehnologiýalar uniwersiteti dünýäniň dürli uniwersitetleri we ylmy merkezleri bilen hyzmatdaşlyk edýär. Bu bolsa talyplaryň halkara derejesinde bilim almaklaryna mümkinçilik berýär.
-
-Slide: 9
-Header: OKUW MEÝILNAMASY
-Content: Okuw meýilnamasy häzirki zaman talaplaryna laýyklykda düzülendir. Tejribe we teoriýa bilelikde öwredilýär, bu bolsa talyplaryň bilim derejelerini ýokarlandyrýar.
-
-Slide: 10
-Header: TEJRIBÄ ESASLANÝAN OKUW
-Content: Talyp okuwynyň esasy bölegi tejribä esaslanýar. Laboratoriýa işleri, praktikalar we taslamalar arkaly talyplar öz bilimlerini berkitýärler.
-
-Slide: X
-Headers: NETIJE
-Content: Türkmenistanyň Oguz han adyndaky inžener tehnologiýalar uniwersiteti ýokary hilli bilim bermäge we inženerçilik boýunça öňdebaryjy hünärmenleri taýýarlamaga gönükdirilendir. Bu ýerde aljak bilimiňiz size geljekde uly mümkinçilikler açar.
-
-Slide: END
-```siteti, ýokary derejeli inženerleri we tehnologlary taýýarlamakda möhüm rol oýnaýar. Uniwersitetiň döwrebap okuw meýilnamalary, ýokary derejeli mugallymlary we häzirki zaman tehnologik enjamlary bilen talyplara iň ýokary derejesinde bilim berýär.
+Header: Netije
+Content: 
+Türkmenistanyň Oguz han adyndaky inžener tehnologiýalar uniwersiteti, ýokary hilli bilim, döwrebap tehnologiýalar we giň mümkinçilikler bilen talyplara we mugallymlara hyzmat edýär. Uniwersitetde okamak, geljekde üstünlikli kärýera we ylmy üstünlikler üçin berk esas bolup durýar.
 
 Slide: END
 ```

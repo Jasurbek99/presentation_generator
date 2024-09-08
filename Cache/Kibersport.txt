@@ -1,0 +1,54 @@
+Title:CYBERSPORT: THE RISE OF ESPORTS
+
+Slide: 1
+Header: TABLE OF CONTENTS
+Content: 1. Introduction to Cybersport
+2. History and Evolution
+3. Popular Cybersport Games
+4. Professional Players and Teams
+5. Cybersport Tournaments
+6. Sponsorship and Revenue
+7. Cybersport and Education
+8. Benefits of Cybersport
+9. Challenges and Controversies
+10. The Future of Cybersport
+
+Slide: 2
+Header: Introduction to Cybersport
+Content: Cybersport, also known as esports, refers to competitive video gaming at a professional level. It has gained immense popularity worldwide.
+
+Slide: 3
+Header: History and Evolution
+Content: Cybersport has roots dating back to the 1970s and has since grown into a global phenomenon with massive audiences and lucrative opportunities.
+
+Slide: 4
+Header: Popular Cybersport Games
+Content: Games like League of Legends, Dota 2, Counter-Strike: Global Offensive, and Fortnite are among the most popular titles in cybersport.
+
+Slide: 5
+Header: Professional Players and Teams
+Content: Talented players and professional teams compete in various leagues and tournaments, showcasing their skills and strategies.
+
+Slide: 6
+Header: Cybersport Tournaments
+Content: Major tournaments such as The International, League of Legends World Championship, and ESL Pro League attract millions of viewers and offer substantial prize pools.
+
+Slide: 7
+Header: Sponsorship and Revenue
+Content: Cybersport has become a lucrative industry, with sponsorships, advertising, media rights, and merchandise sales contributing to its revenue streams.
+
+Slide: 8
+Header: Cybersport and Education
+Content: Some educational institutions have embraced cybersport, offering scholarships and programs focused on gaming, esports management, and game development.
+
+Slide: 9
+Header: Benefits of Cybersport
+Content: Cybersport promotes teamwork, strategic thinking, hand-eye coordination, and quick decision-making skills among players, offering various mental and social benefits.
+
+Slide: 10
+Header: Challenges and Controversies
+Content: Despite its growth, cybersport faces challenges such as player burnout, doping, match-fixing, and the need for better regulation to ensure fair competition.
+
+Slide: END
+Header: SUMMARY
+Content: Cybersport has revolutionized the gaming industry, providing opportunities for players, teams, sponsors, and fans. As it continues to evolve, cybersport offers a glimpse into the future of competitive gaming and entertainment.

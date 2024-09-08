@@ -1,0 +1,38 @@
+Title:Himiýa
+
+Slide: 1
+Header: TABLE OF CONTENT
+Content: 1. Himiýa Nädip Döredi?
+2. Himiýanyň Esasy Bölümleri
+3. Himiýanyň Amaly Ulgamda Ulanylyşy
+4. Himiýanyň Türkmenistanda Ösüşi
+5. Netije
+
+Slide: 2
+Header: Himiýa Nädip Döredi?
+Content: Himiýa, maddyň gurluşyny, düzümine we olaryň özara täsirini öwrenýän ylymdyr. Himiýanyň taryhy gadymy döwürlerden başlaýar we häzirki döwürde-de ösüşini dowam etdirýär. Himiýa ylymynyň döreýşi alhimikleriň işlerinden gözbaş alýar, olar dürli maddalary öwrenip we täze maddalary döretmäge synanyşypdyrlar.
+
+Slide: 3
+Header: Himiýanyň Esasy Bölümleri
+Content: Himiýa birnäçe esasy bölümlere bölünýär:
+- Anorganiki Himiýa: Metallar we olaryň birleşikleri.
+- Organiki Himiýa: Uglewodorodlar we olaryň birleşikleri.
+- Fiziki Himiýa: Maddyň fiziki häsiýetlerini öwrenýär.
+- Analitiki Himiýa: Maddanyň düzümine analiz berýär.
+- Biokimýa: Biologik prosesleriň himiki esaslaryny öwrenýär.
+
+Slide: 4
+Header: Himiýanyň Amaly Ulgamda Ulanylyşy
+Content: Himiýa, dürli pudaklarda ulanylýar:
+- Senagat: Plastmassalar, dermanlar, reňkler we beýleki önümler.
+- Oba Hojalygy: Gübreler, pestisidlar.
+- Lukmançylyk: Derman serişdeleri we diagnostika serişdeleri.
+- Ekologiýa: Hapalanmadan goramak we arassalaýyş tehnologiýalary.
+
+Slide: 5
+Header: Himiýanyň Türkmenistanda Ösüşi
+Content: Türkmenistanda himiýa ylymy we senagaty ýokary derejede ösen. Türkmen himik alymlary täze tehnologiýalary we önümleri işläp taýýarlamakda uly üstünliklere eýe boldular. Nebit we gaz pudagynda himiýa tehnologiýalary giňden ulanylýar, bu bolsa ýurduň ykdysadyýetiniň ösüşine uly goşant goşýar.
+
+Slide: END
+Header: Netije
+Content: Himiýa, adamzat durmuşynyň ähli ugurlaryna täsir edýän möhüm ylym pudagydyr. Bu ylym maddyň düzümini, häsiýetlerini we özara täsirlerini öwrenmek bilen, täze tehnologiýalaryň we önümleriň döremegine ýol açýar. Türkmenistanda himiýa ylymynyň ösmegi, ýurduň ykdysadyýetiniň we senagatynyň ösmegine uly goşant goşýar. Himiýa ylymyny öwrenmek, ähli ugurlarda täze mümkinçiliklere ýol açýar we ýaş alymlara uly mümkinçilikler berýär.

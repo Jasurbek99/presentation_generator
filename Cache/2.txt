@@ -1,0 +1,33 @@
+Title:```
+Title: 2 Sany Hakynda
+
+Slide: 1
+Header: MAZMUUNYŇ SANAWY
+Content: 1. 2 Sanynyň Mazmuny
+2. 2 Sanynyň Matematikadaky Orny
+3. 2 Sanynyň Fizikadaky Orny
+4. 2 Sanynyň Programmalaşdyrmadaky Orny
+5. Netije
+
+Slide: 2
+Header: 2 Sanynyň Mazmuny
+Content: 2 sany, iň irki we esasy sanlaryň biri bolup, iki sany obýektiň birleşmesinden emele gelýär. Bu sany, köp sanly matematik we ylmy ugurlarda möhüm orny eýeleýär.
+
+Slide: 3
+Header: 2 Sanynyň Matematikadaky Orny
+Content: Matematikada 2 sany, jübütlikleri we simmetriýany aňladýar. Şeýle hem, algebra we geometriýa ýaly ugurlarda möhüm rol oýnaýar. Mysal üçin, 2 sany parabolanyň kökleriniň sanyny görkezýär.
+
+Slide: 4
+Header: 2 Sanynyň Fizikadaky Orny
+Content: Fizikada 2 sany, ikili sistemalary we simmetriýany aňladýar. Mysal üçin, molekulalaryň ýa-da kristallaryň gurluşy iki sany simmetriýa elementinden emele gelip biler.
+
+Slide: 5
+Header: 2 Sanynyň Programmalaşdyrmadaky Orny
+Content: Programmalaşdyrmada 2 sany, ikili san ulgamynyň esasyny düzýär. Kompýuterler maglumatlary ikili ulgamda işleýärler, bu bolsa 0 we 1 sanlarynyň kombinasiýasyndan ybaratdyr.
+
+Slide: 6
+Header: Netije
+Content: 2 sany, diňe bir matematikada däl, eýsem fizika we programmalaşdyrma ýaly ugurlarda-da möhüm orny eýeleýär. Onuň dürli ylymlarda we tehnologiýalarda ulanylmagy, bu sanynyň ähmiýetini we giňden ulanylyşyny görkezýär.
+
+Slide: END
+```

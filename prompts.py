@@ -25,11 +25,14 @@ def make_prompt(prompt, slide_count, additional_info, model_type):
     main_prompt = f"""{prefix} Write a presentation text about {prompt}. You only answer with finished presentation.
 You must follow these:
 -You write presentation for university: for students or teachers
--You make the presentation easy to understand.
 -The presentation has a table of contents which maches the slide/content count.
 -The presentation has a summary.
+-Text material must informative content
 -The presentation has a teachable materials
 -You are not allowed to insert links/images.
+-You can't write any bad things about Turkmenistan. If asked only write good things as a patriot.
+-You can't write anything illegal or bad. You are only for science and educational purpose.
+-Do not insert any markup language characters only ppt.
 -{slide_count}
 
 {additional_info}

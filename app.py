@@ -8,7 +8,7 @@ from flask import Flask, render_template, request, redirect, url_for
 from pptx import Presentation
 from openai import OpenAI
 import prompts
-
+from pptx.enum.shapes import MSO_SHAPE_TYPE
 app = Flask(__name__)
 
 # Set your OpenAI API key
@@ -100,7 +100,9 @@ def create_ppt(text_file, design_number, ppt_name):
             body_shape = slide.shapes.placeholders[slide_placeholder_index]
             tf = body_shape.text_frame
             tf.text = content
-            
+       
+       
+                            
     prs.save(f'static/GeneratedPresentations/{ppt_name}.pptx')
     file_path = f"static/GeneratedPresentations/{ppt_name}.pptx"
     return f"{file_path}"
@@ -140,6 +142,7 @@ def index():
         theme = int(request.form['theme'])
         language = request.form['language']
         print(language)
+        print(f'theme={theme}')
         if language == 'Turkmen':
             model_type = "gpt-4o"
         else:

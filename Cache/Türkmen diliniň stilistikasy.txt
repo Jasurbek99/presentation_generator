@@ -1,0 +1,68 @@
+Title:Title: Türkmen Diliniň Stilistikasy
+
+Slide: 1
+Header: MAZMUNY
+Content: 
+1. Giriş
+2. Stilistika näme?
+3. Türkmen diliniň stilistiki aýratynlyklary
+4. Stilistikanyň görnüşleri
+5. Leksik stilistika
+6. Sintaktik stilistika
+7. Frazeologik stilistika
+8. Stilistikanyň ulanylyşy
+9. Türkmen edebiýatynda stilistika
+10. Netije
+
+Slide: 2
+Header: Giriş
+Content: 
+Bu prezentasiýada biz Türkmen diliniň stilistikasy barada gürrüň bereris. Stilistika, dil biliminiň bir bölegi bolup, dildäki üýtgeşik we aýratynlyklary öwrenýär.
+
+Slide: 3
+Header: Stilistika näme?
+Content: 
+Stilistika, dilde sözleriň we söz düzümleriniň nähili ulanylýandygyny, olaryň duýgy, pikir we maglumat bermek üçin nähili üýtgeşik görnüşlerde ulanylýandygyny öwrenýär.
+
+Slide: 4
+Header: Türkmen diliniň stilistiki aýratynlyklary
+Content: 
+Türkmen dili özboluşly stilistiki aýratynlyklara eýedir. Bu aýratynlyklar, dilimiziň baýlygyna we köpdürlüligine esaslanýar, şeýle hem milli medeniýetimiziň täsirini görkezýär.
+
+Slide: 5
+Header: Stilistikanyň görnüşleri
+Content: 
+Stilistika dürli görnüşlere bölünýär: leksik stilistika, sintaktik stilistika we frazeologik stilistika. Bu görnüşler, dilde dürli derejelerde ulanylýan stilistiki elementleri öwrenýär.
+
+Slide: 6
+Header: Leksik stilistika
+Content: 
+Leksik stilistika, sözleriň we söz düzümleriniň stilistiki aýratynlyklaryny öwrenýär. Türkmen dilinde leksik stilistika, söz baýlygy we sinonimleriň ulanylyşy bilen baglanyşyklydyr.
+
+Slide: 7
+Header: Sintaktik stilistika
+Content: 
+Sintaktik stilistika, sözleriň we söz düzümleriniň gurluşyny we olaryň stilistiki täsirini öwrenýär. Türkmen dilinde sintaktik stilistika, sözleriň we söz düzümleriniň ýönekeý we çylşyrymly görnüşlerini öz içine alýar.
+
+Slide: 8
+Header: Frazeologik stilistika
+Content: 
+Frazeologik stilistika, dildäki frazeologik birikmeleriň stilistiki aýratynlyklaryny öwrenýär. Türkmen dilinde frazeologik stilistika, milli we medeni aýratynlyklaryny görkezýär.
+
+Slide: 9
+Header: Stilistikanyň ulanylyşy
+Content: 
+Stilistika, edebiýatda, žurnalistikada, jemgyýetçilik çykyşlarynda we beýleki köpçülikleýin habar beriş serişdelerinde giňden ulanylýar. Türkmen dilinde stilistika, milli ruhy we medeni gymmatlyklarymyzy görkezmekde möhüm rol oýnaýar.
+
+Slide: 10
+Header: Türkmen edebiýatynda stilistika
+Content: 
+Türkmen edebiýatynda stilistika, eserleriň diliniň baýlygyny we çeperçilik derejesini ýokarlandyrýar. Türkmen ýazyjylary we şahyrlary, stilistiki elementleri ussatlyk bilen ulanyp, eserleriniň täsirini artdyrýarlar.
+
+Slide: 11
+Header: Netije
+Content: 
+Türkmen diliniň stilistikasy, dilimiziň baýlygyny we köpdürlüligini görkezýär. Stilistika, dilde üýtgeşik we täsirli sözlemleri döretmekde möhüm rol oýnaýar. Bu bolsa, milli medeniýetimizi we ruhy mirasymyzy gorap saklamaga ýardam edýär.
+
+Slide: END
+```

@@ -1,0 +1,47 @@
+Title:Title: Ilon Maskyň Taryhy we Iş Tejribesi
+
+Slide: 1
+Header: MAZMUNYŇ SANAWY
+Content: 
+1. Ilon Maskyň Gysgaça Taryhy
+2. Ilkibaşky Täzeçillikleri
+3. PayPal we Maliýe Dünýäsi
+4. SpaceX we Kosmos Iňňikleri
+5. Tesla we Elektrik Awto Ulaglary
+6. Diňe Bir Adamyň Täzeçillikleri
+7. Netije
+
+Slide: 2
+Header: ILON MASKYŇ GYSGAÇA TARYHY
+Content: 
+Ilon Mask, 1971-nji ýylda Günorta Afrikada dünýä inen. Ol ýaşlykdan tehnologiýa we kompýuterler bilen gyzyklanyp başlady. Heniz mekdepde okaýarka, ilkinji kompýuter programmasyny ýazdy we ony satdy.
+
+Slide: 3
+Header: ILKIBAŞKY TÄZEÇILLIKLERI
+Content: 
+Ilon Maskyň ilkinji uly täzelikleri Zip2 we X.com kompaniýalary bilen boldy. Bu kompaniýalar internetiň irki döwürlerinde uly üstünlik gazandy we Maskyň maliýe dünýäsine ilkinji ädimlerini ätdi.
+
+Slide: 4
+Header: PAYPAL WE MALIÝE DÜNÝÄSI
+Content: 
+X.com soňra PayPal ady bilen tanaldy we internet arkaly maliýe amallaryny ýeňilleşdirdi. 2002-nji ýylda eBay tarapyndan satyn alnan PayPal, Maskyň ilkinji uly maliýe üstünliklerinden biri boldy.
+
+Slide: 5
+Header: SPACEX WE KOSMOS IŇŇIKLERI
+Content: 
+2002-nji ýylda Ilon Mask SpaceX-i döretdi. Bu kompaniýa hususy kosmos syýahatçylygy we raketa tehnologiýalary boýunça uly öňegidişlikler gazandy. SpaceX, NASA bilen hyzmatdaşlykda birnäçe taslamalary amala aşyrdy.
+
+Slide: 6
+Header: TESLA WE ELEKTRIK AWTO ULAGLARY
+Content: 
+2004-nji ýylda Ilon Mask Tesla Motors-a goşuldy. Tesla, elektrik awto ulaglary we energiýa saklaýyş tehnologiýalary bilen dünýäde giňden tanalýar. Bu kompaniýa, ýangyçsyz ulaglaryň geljegine uly goşant goşdy.
+
+Slide: 7
+Header: DIŇE BIR ADAMYŇ TÄZEÇILLIKLERI
+Content: 
+Ilon Mask diňe bir SpaceX we Tesla bilen çäklenmän, SolarCity, Neuralink, we The Boring Company ýaly kompaniýalary hem döretdi. Bu kompaniýalar energiýa, beyin-tehnologiýa interfeýsi we ýerasty transport ulgamlary ýaly ugurlarda iş alyp barýar.
+
+Slide: 8
+Header: NETIJE
+Content: 
+Ilon Mask, tehnologiýa we täzelikler bilen dünýäde uly täsir galdyran bir şahsyýetdir. Onuň iş tejribesi we döreden kompaniýalary, geljek üçin tehnologiýanyň we ylmyň nähili uly mümkinçiliklere eýe bolup biljekdigini görkezýär. Mask, öz işjeňligi we täzelikçi pikirleri bilen geljek nesillere ylham berýär.

@@ -1,0 +1,75 @@
+Title:Ene-atalar ýaşlaryň gajetlerini ulanmaklaryny çäklendirmek üçin programmalar bilen tanyşdyrmak 
+
+Slide: 1
+Header: MÜNDERICLER JEDWELI
+Content: 1. Girizme 
+2. Google Family Link
+3. Kasperskiy Safe Kids
+4. Norton Family Parental Control
+5. Beýleki programmalar
+6. Programmalaryň gurnaýjy funksiýalary
+7. Programmalaryň installysiýasy
+8. Programmalaryň işleyşi
+9. Hyzmatdaşlyk
+10. Programmalaryň üstünçilikleri we eksiklikleri
+11. Netijeler
+12. Düşündiriş
+13. Yzarlaýyşlar
+14. Soňky pikirler
+15. Ýekewaýylyk
+
+Slide: 2
+Header: GIRIZME
+Content: Bu prezintasiýada, biz çagalar we ýaşlar üçin interneti howpsuz ulanmak üçin gollanýan birnäçe programma barada gürrüň bereris.
+
+Slide: 3
+Header: GOOGLE FAMILY LINK
+Content: Google Family Link, ebebeleriň çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 4
+Header: KASPERSKIY SAFE KIDS
+Content: Kasperskiy Safe Kids, çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 5
+Header: NORTON FAMILY PARENTAL CONTROL
+Content: Norton Family Parental Control, çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 6
+Header: PROGRAMMALARIN GURNAÝJY FUNKSIÝALARY
+Content: Bu programmalar çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 7
+Header: PROGRAMMALARIN INSTALLYSIÝASY
+Content: Bu programmalar çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 8
+Header: PROGRAMMALARIN IŞLEYŞI
+Content: Bu programmalar çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 9
+Header: HYZMATDAŞLYK
+Content: Bu programmalar çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 10
+Header: PROGRAMMALARIN ÜSTÜNÇILIKLERI WE EKSIKLIKLERI
+Content: Bu programmalar çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 11
+Header: NETIJELER
+Content: Bu programmalar çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 12
+Header: DÜŞÜNDIRIŞ
+Content: Bu programmalar çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 13
+Header: YZARLAÝYŞLAR
+Content: Bu programmalar çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 14
+Header: SOŇKY PIKIRLER
+Content: Bu programmalar çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.
+
+Slide: 15
+Header: ÝEKEWAÝYLYK
+Content: Bu prezintasiýa, ebebeleriň çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmalar barada tüsindirýär. Bu programmalar çagalaryňyzyň internet ulanmagyny nädip idare etdiklerini we hünärmenlerini nädip ösdürdiklerini gözegçilik etmek üçin gurnalan programmadyr.

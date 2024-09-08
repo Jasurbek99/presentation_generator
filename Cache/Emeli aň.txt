@@ -1,0 +1,73 @@
+Title:Emeli aň
+
+Slide: 1
+Header: MAZMUNYŇ SANAWY
+Content: 1. Giriş
+2. Emeli aňyň taryhy
+3. Emeli aňyň görnüşleri
+4. Emeli aňyň ulanylyş ugurlary
+5. Emeli aňyň bilimde ulanylyşy
+6. Emeli aňyň saglygy goraýyşda ulanylyşy
+7. Emeli aňyň ykdysadyýetde ulanylyşy
+8. Emeli aňyň geljegi
+9. Netije
+10. Soraglar we jogaplar
+
+Slide: 2
+Header: GIRIŞ
+Content: Emeli aň, kompýuterleriň we maşynlaryň adam aňynyň funksiýalaryny ýerine ýetirmegine mümkinçilik berýän tehnologiýadyr. Bu, maglumatlary işlemek, öwrenmek, planlaşdyrmak, ses tanamak we beýleki intellektual işlere degişli bolup biler.
+
+Slide: 3
+Header: EMELI AŇYŇ TARHY
+Content: Emeli aňyň taryhy 1950-nji ýyllarda başlaýar. Alan Turing we John McCarthy ýaly alymlar bu ugurda ilkinji ädimleri ätdiler. 1956-njy ýylda Dartmut konferensiýasy emeli aňyň resmi başlangyjyny alamatlandyrdy.
+
+Slide: 4
+Header: EMELI AŇYŇ GÖRNÜŞLERI
+Content: Emeli aňyň birnäçe görnüşi bar, şol sanda:
+- Dar emeli aň (ANI): Belli bir meseleler üçin niýetlenen.
+- Giňişleýin emeli aň (AGI): Adam aňyna deň derejede iş alyp barýar.
+- Üstün emeli aň (ASI): Adam aňyndan has ýokary derejede iş alyp barýar.
+
+Slide: 5
+Header: EMELI AŇYŇ ULANYLYŞ UGURLARY
+Content: Emeli aň dürli ugurlarda ulanylýar:
+- Awtomobil senagaty
+- Maliýe hyzmatlary
+- Saglygy goraýyş
+- Bilim
+- Maglumat tehnologiýalary
+
+Slide: 6
+Header: EMELI AŇYŇ BILIMDE ULANYLYŞY
+Content: Bilim ulgamynda emeli aň:
+- Personalizirlenen okuw meýilnamalary
+- Awtomatik bahalandyrma
+- Onlaýn okuw platformalary
+- Mugallymlara kömekçi gurallar
+
+Slide: 7
+Header: EMELI AŇYŇ SAGLYGY GORAÝYŞDA ULANYLYŞY
+Content: Saglygy goraýyşda emeli aň:
+- Keselleriň anyklanylmagy we bejerilmegi
+- Dermanlaryň işlenip düzülmegi
+- Sanly saglyk hyzmatlary
+- Hassalaryň maglumatlarynyň dolandyrylmagy
+
+Slide: 8
+Header: EMELI AŇYŇ YKDYSADYÝETDE ULANYLYŞY
+Content: Ykdysadyýetde emeli aň:
+- Maliýe bazarlarynyň analizi
+- Awtomatlaşdyrylan täjirçilik
+- Marketing we mahabat
+- Logistika we üpjünçilik zynjyrynyň dolandyrylmagy
+
+Slide: 9
+Header: EMELI AŇYŇ GELJEGI
+Content: Emeli aňyň geljegi uly mümkinçilikleri öz içine alýar. Ol işleriň awtomatlaşdyrylmagy, täze iş ýerleriniň döredilmegi, we ylmy barlaglaryň ösüşine uly täsir ýetirip biler. Şeýle-de, emeli aňyň etik we jemgyýetçilik meseleleri hem göz öňünde tutulmalydyr.
+
+Slide: 10
+Header: NETIJE
+Content: Emeli aň häzirki zaman jemgyýetiniň möhüm bölegine öwrüldi. Onuň dürli ugurlarda ulanylyşy we geljekdäki mümkinçilikleri adamlaryň gündelik durmuşyny aňsatlaşdyrýar we täze mümkinçilikler döredýär. Emeli aňyň dogry ulanylmagy ylmy we tehnologiki ösüşlere itergi berer.
+
+Slide: END
+```

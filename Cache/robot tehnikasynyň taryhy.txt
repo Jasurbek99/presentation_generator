@@ -1,0 +1,44 @@
+Title:Robot Tehnikasynyň Taryhy
+
+Slide: 1
+Header: MUNDARJA
+Content: 1. Düýpli Robotlar
+2. Robotlar we Ylmy-Tehnikalyk Ösüş
+3. Robotlar we Industriýa
+4. Robotlar we Sosial Hyzmatlar
+5. Robotlar we Bilim
+6. Gelejegin Robotlary
+7. Ylmy-Tehnikalyk Ösüşiň Netijeleri
+8. Soňky Pikirler
+
+Slide: 2
+Header: DÜÝPLI ROBOTLAR
+Content: Düýpli robotlar, jemgyýetimizde we ömürde ähli wagtlarymyzda amala aşyrylan işleri ýerine ýetirýär. Olar, adamzatlaryň ýerine iş ýerine ýetirmek üçin döredildi.
+
+Slide: 3
+Header: ROBOTLAR WE YLMY-TEHNIKALYK ÖSÜŞ
+Content: Robotlar, tehnologiýanyň ösüşinde ähmiýetli bir rol oýnaýar. Olar, birnäçe işleriň ýerine ýetirilendigini ýörite edýär, olar hem-de ýurtda we dünýäde ösüşleriň howpsuzlygyny üpjün edýär.
+
+Slide: 4
+Header: ROBOTLAR WE INDUSTRIÝA
+Content: Robotlar, industriýada ähmiýetli bir rol oýnaýar. Olar, öndürýän işleri tezleýär we howpsuzlygy üpjün edýär.
+
+Slide: 5
+Header: ROBOTLAR WE SOSIAL HYZMATLAR
+Content: Robotlar, sosial hyzmatlarda kömek ederler. Olar, adamlara kömek etmek üçin döredilýär, ýöne olar hem-de adamlaryň işlerini ýerine ýetirmekde kömek ederler.
+
+Slide: 6
+Header: ROBOTLAR WE BILIM
+Content: Robotlar, bilimde ähmiýetli bir rol oýnaýar. Olar, ylmy-taýdanlaryň işlerini ýerine ýetirmek üçin döredilýär.
+
+Slide: 7
+Header: GELEJEGIN ROBOTLARY
+Content: Gelejegiň robotlary, ähli işleriň ýerine ýetirilendigini üpjün ederler. Olar, tehnologiýanyň ösüşiniň bir bölegi bolup galýar.
+
+Slide: 8
+Header: YLMY-TEHNIKALYK ÖSÜŞIŇ NETIJELERI
+Content: Robotlar, tehnologiýanyň ösüşinde ähmiýetli bir rol oýnaýar. Olar, işleriň ýerine ýetirilendigini üpjün ederler we howpsuzlygy ýokarlandyrýarlar.
+
+Slide: END
+Header: SOŇKY PIKIRLER
+Content: Robotlar, tehnologiýanyň ösüşinde ähmiýetli bir rol oýnaýar. Olar, howpsuzlygy üpjün ederler, işleriň ýerine ýetirilendigini ýokarlandyrýarlar we tehnologiýanyň ösüşiniň bir bölegi bolup galýarlar.

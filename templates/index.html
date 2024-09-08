@@ -38,11 +38,44 @@
             </div>
             <div class="form-group">
                 <label for="slides">Sahypa sany:</label>
-                <input type="number" class="form-control" id="slides" min="1" max="15" name="slides" required>
+                <input type="number"  class="form-control" id="slides" min="1" max="15" name="slides" required>
             </div>
             <div class="form-group">
                 <label for="theme">Tema saýlaň (1-7):</label>
-                <input type="number" class="form-control" id="theme" min="1" max="7" name="theme" required>
+                <div style="display: grid; grid-template-columns: repeat(5, minmax(0, 5fr)); gap: 10px;">
+                <div class="card">
+                    <input type="radio" id="card1" name="theme" value="1">
+                    <label for="card1">
+                      <img src="../static/images/1.png" alt="Card Image 1">
+                    </label>
+                  </div>
+                  <div class="card">
+                    <input type="radio" id="card2" name="theme" value="2">
+                    <label for="card2">
+                      <img src="../static/images/2.png" alt="Card Image 2">
+                    </label>
+                  </div>
+                  <div class="card">
+                    <input type="radio" id="card3" name="theme" value="3">
+                    <label for="card3">
+                      <img src="../static/images/3.png" alt="Card Image 3">
+                    </label>
+                  </div>
+                  <div class="card">
+                    <input type="radio" id="card4" name="theme" value="4">
+                    <label for="card4">
+                      <img src="../static/images/4.png" alt="Card Image 4">
+                    </label>
+                  </div>
+                  <div class="card">
+                    <input type="radio" id="card5" name="theme" value="5">
+                    <label for="card5">
+                      <img src="../static/images/5.png" alt="Card Image 5">
+                    </label>
+                  </div>
+                  
+                </div>   
+                <!-- <input type="number" class="form-control" id="theme" min="1" max="7" name="theme" required> -->
             </div>
             <div class="form-group">
             <label for="language">Prezentasiýa dilini saýlaň:</label>
@@ -66,9 +99,22 @@
 </div>
 <script>
     function showLoading() {
+        console.log('value:',document.getElementsByTagName('form'))
         document.querySelector('form').style.display = 'none';
         document.getElementById('loading').style.display = 'block';
     }
+
+//     const cardRadioButtons = document.querySelectorAll('input[type="radio"]');
+
+// cardRadioButtons.forEach(radioButton => {
+//   radioButton.addEventListener('change', function() {
+//     const cardValue = this.value; // Get value from radio button
+//     if (this.checked) {
+//       // Send value to Python using AJAX or WebSockets (explained below)
+//       console.log("Selected card value:", cardValue); // For demonstration
+//     }
+//   });
+// });
 </script>
 </body>
 </html>

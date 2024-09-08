@@ -1,0 +1,38 @@
+Title:```
+Title: GÖNIŞME WE ONYŇ TEHNIKALARY
+
+Slide: 1
+Header: MAZMUNYŇ SANAWY
+Content: 
+1. Gönişme näme?
+2. Gönişmäniň ähmiýeti
+3. Gönişme tehnikalary
+4. Tejribede ulanmak
+
+Slide: 2
+Header: GÖNIŞME NÄME?
+Content: Gönişme, iki ýa-da köp adamyň arasynda maglumat alyşmak prosesidir. Bu, dilden ýa-da ýazuwly görnüşde bolup biler we adamyň pikirlerini, duýgularyny we maglumatlaryny beýan etmäge mümkinçilik berýär.
+
+Slide: 3
+Header: GÖNIŞMÄNIŇ ÄHMIÝETI
+Content: Gönişme, durmuşymyzda möhüm rol oýnaýar. Ol adamlar bilen aragatnaşyk saklamaga, işewürlik meselelerini çözmäge we bilim almakda kömek edýär. Gönişmäniň netijeliligi, adamlaryň arasynda düşünişmek we hyzmatdaşlyk etmek üçin möhümdir.
+
+Slide: 4
+Header: GÖNIŞME TEHNIKALARY
+Content: Gönişme tehnikalary, maglumatlary has netijeli we düşnükli görnüşde bermäge kömek edýär. Bu tehnikalara:
+- Diňlemek
+- Sorag bermek
+- Düşündirmek
+- Aýdyň we gysga sözlem ulanyş
+- Beden dili we mimika
+
+Slide: 5
+Header: TEJRIBEDE ULANMAK
+Content: Gönişme tehnikalaryny tejribede ulanmak, islendik ýagdaýda özara düşünişmegi ýokarlandyrýar. Bu tehnikalary öwrenmek we ulanmak bilen, siz özüňiziň we başgalaryň arasynda has gowy aragatnaşyk gurup bilersiňiz. Tejribe arkaly bu tehnikalary kämilleşdirmek mümkindir.
+
+Slide: 6
+Header: JEMLEME
+Content: Gönişme, durmuşymyzda möhüm bir elementdir we ony netijeli ulanmak üçin ýörite tehnikalary öwrenmek zerurdyr. Diňlemek, sorag bermek we düşnükli beýan etmek ýaly tehnikalary tejribede ulanmak, aragatnaşygyň hilini ýokarlandyrýar we düşünişmegi gowulandyrýar.
+
+Slide: END
+```

@@ -1,0 +1,60 @@
+Title:Title: Innowasion Ykdysadyýet
+
+Slide: 1
+Header: MAZMUNY
+Content: 1. Innowasion Ykdysadyýete Giriş
+2. Innowasion Ykdysadyýetiň Aýratynlyklary
+3. Innowasiýanyň Ykdysadyýete Täseri
+4. Innowasion Tehnologiýalaryň Orny
+5. Türkmenistanda Innowasion Ykdysadyýet
+6. Innowasion Ykdysadyýetiň Geljegi
+7. Jemleýji Netije
+
+Slide: 2
+Header: Innowasion Ykdysadyýete Giriş
+Content: Innowasion ykdysadyýet, täze tehnologiýalaryň we innowasiýalaryň ulanylmagy arkaly ykdysady ösüşi gazanmagy maksat edinýän bir ykdysady ulgamyň görnüşidir. Bu ykdysadyýetde täze pikirler, önümler we hyzmatlar ykdysady ösüşiň esasy hereketlendiriji güýjüdir.
+
+Slide: 3
+Header: Innowasion Ykdysadyýetiň Aýratynlyklary
+Content: Innowasion ykdysadyýetiň esasy aýratynlyklary:
+- Täze tehnologiýalaryň we ylmy açyşlaryň ulanylmagy
+- Işewürlik modelleriniň üýtgedilmegi
+- Täze bazarlaryň we iş mümkinçiligiň döredilmegi
+- Ylmy-barlag işlerine uly maýa goýumlaryň goýulmagy
+
+Slide: 4
+Header: Innowasiýanyň Ykdysadyýete Täseri
+Content: Innowasiýanyň ykdysadyýete täsiri:
+- Ykdysady ösüşiň tizlenmegi
+- Iş önümçiliginiň artmagy we çykdajylaryň azalmagy
+- Täze iş orunlarynyň döredilmegi
+- Halkara bäsdeşlige ukyplylygyň ýokarlanmagy
+
+Slide: 5
+Header: Innowasion Tehnologiýalaryň Orny
+Content: Innowasion tehnologiýalaryň ykdysadyýetde eýeleýän orny:
+- Sanly tehnologiýalar we maglumat ulgamlary
+- Biotehnologiýalar we saglyk pudagyndaky innowasiýalar
+- Energiýa netijeliligi we alternatiw energiýa çeşmeleri
+- Awtomatizasiýa we robotlaşdyrma
+
+Slide: 6
+Header: Türkmenistanda Innowasion Ykdysadyýet
+Content: Türkmenistanda innowasion ykdysadyýetiň ösüşi:
+- Döwlet tarapyndan innowasiýa goldawynyň berilmegi
+- Ylmy-barlag merkezleriniň döredilmegi
+- Sanly ykdysadyýet maksatnamalarynyň durmuşa geçirilmegi
+- Täze tehnologiýalaryň önümçilige ornaşdyrylmagy
+
+Slide: 7
+Header: Innowasion Ykdysadyýetiň Geljegi
+Content: Innowasion ykdysadyýetiň geljegi:
+- Tehnologiýalaryň yzygiderli ösmegi we täzelenmegi
+- Ykdysadyýetiň dürli pudaklarynda innowasiýanyň ornaşdyrylmagy
+- Halkara hyzmatdaşlygyň giňeldilmegi
+- Ýaş nesilleriň innowasion pikirleri ösdürmäge höweslendirilmegi
+
+Slide: 8
+Header: Jemleýji Netije
+Content: Innowasion ykdysadyýet, häzirki zaman dünýäniň ykdysady ösüşiniň esasy hereketlendiriji güýjüdür. Türkmenistanda hem innowasiýa we täze tehnologiýalaryň ulanylmagy, ykdysadyýetiň dürli pudaklarynda ösüşi gazanmaga uly mümkinçilikler döredýär. Geljekde innowasion ykdysadyýetiň has-da ösmegine we täze mümkinçilikleriň açylmagyna garaşylýar.
+```
